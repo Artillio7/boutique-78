@@ -8,7 +8,8 @@
     "catalogue": "产品目录",
     "categories": "分类",
     "contact": "联系我们",
-    "search": "搜索..."
+    "search": "搜索...",
+    "cart": "购物车"
   },
   "home": {
     "hero": {
@@ -55,6 +56,24 @@
     "shareProduct": "分享产品",
     "relatedProducts": "相关产品"
   },
+  "quote": {
+    "title": "询价",
+    "subtitle": "填写此表格以获取个性化报价",
+    "name": "姓名",
+    "namePlaceholder": "您的姓名",
+    "email": "邮箱",
+    "emailPlaceholder": "your@email.com",
+    "phone": "电话",
+    "phonePlaceholder": "+86 123 4567 8900",
+    "message": "留言",
+    "messagePlaceholder": "描述您的需求...",
+    "submit": "提交询价",
+    "success": {
+      "title": "询价已发送！",
+      "message": "我们将在24小时内回复您。"
+    },
+    "required": "此字段必填"
+  },
   "currency": {
     "label": "货币",
     "EUR": "欧元 (€)",
@@ -65,11 +84,91 @@
     "company": "萨威",
     "tagline": "来自中国的专业汽车保养设备",
     "links": "链接",
+    "about": "关于我们",
     "contact": "联系方式",
+    "legalTitle": "信息",
     "legal": "法律声明",
     "privacy": "隐私政策",
     "terms": "条款",
     "copyright": "© 2024 萨威。保留所有权利。"
+  },
+  "checkout": {
+    "title": "购物车",
+    "empty": "购物车为空",
+    "continueShopping": "继续购物",
+    "quantity": "数量",
+    "remove": "移除",
+    "subtotal": "小计",
+    "total": "总计",
+    "checkout": "结账",
+    "processing": "处理中...",
+    "success": {
+      "title": "感谢您的订单！",
+      "message": "您的订单已确认。您将很快收到确认邮件。",
+      "orderNumber": "订单号",
+      "backToCatalogue": "返回目录"
+    }
+  },
+  "whatsapp": {
+    "contact": "通过WhatsApp联系我们",
+    "message": "您好，我对产品感兴趣: {product}。请问您能提供更多信息吗？"
+  },
+  "about": {
+    "title": "关于萨威",
+    "subtitle": "您的专业汽车设备合作伙伴",
+    "intro": "萨威是专业汽车设备的领先供应商，为全球汽车维修厂和车间提供工业级解决方案。",
+    "mission": {
+      "title": "我们的使命",
+      "text": "以有竞争力的价格提供高品质的汽车设备，提供卓越的客户服务和专业的技术支持。"
+    },
+    "services": {
+      "title": "我们的服务",
+      "items": {
+        "equipment": "举升和搬运设备",
+        "spray": "喷漆房和喷涂系统",
+        "tire": "轮胎设备",
+        "diagnostic": "诊断设备",
+        "washing": "清洗系统",
+        "oil": "换油设备"
+      }
+    },
+    "whyUs": {
+      "title": "为什么选择我们？",
+      "quality": "品质保证",
+      "qualityDesc": "所有设备均经过测试和认证",
+      "price": "价格优势",
+      "priceDesc": "厂家直销，无中间商",
+      "support": "技术支持",
+      "supportDesc": "售前售后全程服务"
+    }
+  },
+  "contact": {
+    "title": "联系我们",
+    "subtitle": "我们随时为您服务",
+    "info": {
+      "title": "联系信息",
+      "email": "邮箱",
+      "phone": "电话",
+      "address": "地址",
+      "hours": "营业时间",
+      "hoursValue": "周一至周五: 9:00 - 18:00"
+    },
+    "form": {
+      "title": "发送消息",
+      "name": "姓名",
+      "email": "邮箱",
+      "subject": "主题",
+      "message": "消息",
+      "submit": "发送",
+      "success": "消息发送成功！",
+      "successMessage": "我们会尽快回复您。"
+    }
+  },
+  "notFound": {
+    "title": "页面未找到",
+    "message": "抱歉，您访问的页面不存在或已被移动。",
+    "backHome": "返回首页",
+    "browseCatalogue": "浏览目录"
   },
   "common": {
     "loading": "加载中...",

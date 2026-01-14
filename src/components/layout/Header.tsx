@@ -2,19 +2,23 @@
 
 import Link from 'next/link';
 import { useTranslations, useLocale } from 'next-intl';
-import { Menu, Search, X } from 'lucide-react';
+import { Menu, Search, X, ShoppingCart } from 'lucide-react';
 import { useState } from 'react';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
+import { Badge } from '@/components/ui/badge';
 import { Sheet, SheetContent, SheetTrigger } from '@/components/ui/sheet';
 import { CurrencySelector } from '@/lib/currency';
+import { useCart } from '@/lib/cart';
 import { LocaleSwitcher } from './LocaleSwitcher';
 
 export function Header() {
   const t = useTranslations('nav');
   const locale = useLocale();
+  const { getItemCount } = useCart();
   const [searchOpen, setSearchOpen] = useState(false);
   const [searchQuery, setSearchQuery] = useState('');
+  const cartCount = getItemCount();
 
   const handleSearch = (e: React.FormEvent) => {
     e.preventDefault();
@@ -88,6 +92,18 @@ export function Header() {
             </Button>
           )}
 
+          {/* Cart Button */}
+          <Link href={`/${locale}/checkout`}>
+            <Button variant="ghost" size="icon" className="relative">
+              <ShoppingCart className="h-4 w-4" />
+              {cartCount > 0 && (
+                <Badge className="absolute -top-1 -right-1 h-5 w-5 p-0 flex items-center justify-center text-xs">
+                  {cartCount}
+                </Badge>
+              )}
+            </Button>
+          </Link>
+
           {/* Currency & Locale - Hidden on mobile */}
           <div className="hidden sm:flex items-center space-x-2">
             <CurrencySelector />
@@ -120,6 +136,16 @@ export function Header() {
                   className="text-lg font-medium hover:text-primary"
                 >
                   {t('categories')}
+                </Link>
+                <Link
+                  href={`/${locale}/checkout`}
+                  className="text-lg font-medium hover:text-primary flex items-center gap-2"
+                >
+                  <ShoppingCart className="h-5 w-5" />
+                  {t('cart')}
+                  {cartCount > 0 && (
+                    <Badge className="ml-auto">{cartCount}</Badge>
+                  )}
                 </Link>
 
                 <div className="pt-4 border-t">

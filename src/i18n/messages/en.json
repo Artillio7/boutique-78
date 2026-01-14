@@ -8,7 +8,8 @@
     "catalogue": "Catalogue",
     "categories": "Categories",
     "contact": "Contact",
-    "search": "Search..."
+    "search": "Search...",
+    "cart": "Cart"
   },
   "home": {
     "hero": {
@@ -55,6 +56,24 @@
     "shareProduct": "Share this product",
     "relatedProducts": "Related products"
   },
+  "quote": {
+    "title": "Quote Request",
+    "subtitle": "Fill out this form to receive a personalized quote",
+    "name": "Full name",
+    "namePlaceholder": "Your name",
+    "email": "Email",
+    "emailPlaceholder": "your@email.com",
+    "phone": "Phone",
+    "phonePlaceholder": "+1 234 567 8900",
+    "message": "Message",
+    "messagePlaceholder": "Describe your needs...",
+    "submit": "Send request",
+    "success": {
+      "title": "Request sent!",
+      "message": "We will respond within 24 hours."
+    },
+    "required": "This field is required"
+  },
   "currency": {
     "label": "Currency",
     "EUR": "Euro (€)",
@@ -65,11 +84,91 @@
     "company": "SAWEI",
     "tagline": "Professional automotive equipment from China",
     "links": "Useful links",
+    "about": "About",
     "contact": "Contact",
+    "legalTitle": "Information",
     "legal": "Legal notice",
     "privacy": "Privacy",
     "terms": "Terms",
     "copyright": "© 2024 SAWEI. All rights reserved."
+  },
+  "checkout": {
+    "title": "Cart",
+    "empty": "Your cart is empty",
+    "continueShopping": "Continue shopping",
+    "quantity": "Quantity",
+    "remove": "Remove",
+    "subtotal": "Subtotal",
+    "total": "Total",
+    "checkout": "Checkout",
+    "processing": "Processing...",
+    "success": {
+      "title": "Thank you for your order!",
+      "message": "Your order has been confirmed. You will receive a confirmation email shortly.",
+      "orderNumber": "Order number",
+      "backToCatalogue": "Back to catalogue"
+    }
+  },
+  "whatsapp": {
+    "contact": "Contact us on WhatsApp",
+    "message": "Hello, I am interested in the product: {product}. Can you give me more information?"
+  },
+  "about": {
+    "title": "About SAWEI",
+    "subtitle": "Your partner in professional automotive equipment",
+    "intro": "SAWEI is a leading supplier of professional automotive equipment, offering industrial-quality solutions for garages and workshops worldwide.",
+    "mission": {
+      "title": "Our Mission",
+      "text": "To provide high-quality automotive equipment at competitive prices, with exceptional customer service and expert technical support."
+    },
+    "services": {
+      "title": "Our Services",
+      "items": {
+        "equipment": "Lifting and handling equipment",
+        "spray": "Paint booths and spray systems",
+        "tire": "Tire equipment",
+        "diagnostic": "Diagnostic equipment",
+        "washing": "Washing systems",
+        "oil": "Oil change equipment"
+      }
+    },
+    "whyUs": {
+      "title": "Why Choose Us?",
+      "quality": "Guaranteed Quality",
+      "qualityDesc": "All our equipment is tested and certified",
+      "price": "Competitive Prices",
+      "priceDesc": "Direct from factory, no middleman",
+      "support": "Technical Support",
+      "supportDesc": "Pre and post-sale assistance"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We're here to help",
+    "info": {
+      "title": "Contact Information",
+      "email": "Email",
+      "phone": "Phone",
+      "address": "Address",
+      "hours": "Business Hours",
+      "hoursValue": "Mon-Fri: 9:00 AM - 6:00 PM"
+    },
+    "form": {
+      "title": "Send us a message",
+      "name": "Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "submit": "Send",
+      "success": "Message sent successfully!",
+      "successMessage": "We will respond as soon as possible."
+    }
+  },
+  "notFound": {
+    "title": "Page not found",
+    "message": "Sorry, the page you're looking for doesn't exist or has been moved.",
+    "backHome": "Back to home",
+    "browseCatalogue": "Browse catalogue"
   },
   "common": {
     "loading": "Loading...",

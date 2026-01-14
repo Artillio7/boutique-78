@@ -1,0 +1,117 @@
+{
+  "project": "sawei-store",
+  "branchName": "ralph/sawei-enhancements",
+  "description": "Phase 2 - Quality & UX Improvements for SAWEI E-commerce",
+  "createdAt": "2026-01-14T14:00:00Z",
+
+  "features": [
+    {
+      "id": "F-007",
+      "title": "Image Fallback Handler",
+      "description": "Add fallback handling for broken external images. Show placeholder when image fails to load.",
+      "acceptanceCriteria": [
+        "ImageWithFallback component created",
+        "Shows placeholder on error",
+        "Used in ProductCard and ProductImageGallery",
+        "npm run build passes"
+      ],
+      "priority": 1,
+      "passes": true,
+      "blockedBy": [],
+      "plan": ".ralph/plans/F-007.plan.md"
+    },
+    {
+      "id": "F-008",
+      "title": "Custom 404 Page",
+      "description": "Create styled 404 error page with helpful navigation.",
+      "acceptanceCriteria": [
+        "Custom not-found.tsx page",
+        "Shows search suggestion",
+        "Link back to catalogue",
+        "Translated content (FR/EN/CN)",
+        "npm run build passes"
+      ],
+      "priority": 2,
+      "passes": true,
+      "blockedBy": [],
+      "plan": ".ralph/plans/F-008.plan.md"
+    },
+    {
+      "id": "F-009",
+      "title": "Contact Page",
+      "description": "Create dedicated contact page with company info and contact form.",
+      "acceptanceCriteria": [
+        "Contact page at /[locale]/contact",
+        "Display company info",
+        "Contact form with validation",
+        "npm run build passes"
+      ],
+      "priority": 3,
+      "passes": true,
+      "blockedBy": [],
+      "plan": ".ralph/plans/F-009.plan.md"
+    },
+    {
+      "id": "F-010",
+      "title": "About Page",
+      "description": "Create about page with company presentation.",
+      "acceptanceCriteria": [
+        "About page at /[locale]/about",
+        "Company presentation",
+        "Services section",
+        "npm run build passes"
+      ],
+      "priority": 4,
+      "passes": true,
+      "blockedBy": [],
+      "plan": ".ralph/plans/F-010.plan.md"
+    },
+    {
+      "id": "F-011",
+      "title": "Footer Improvements",
+      "description": "Enhance footer with contact info, links, and newsletter placeholder.",
+      "acceptanceCriteria": [
+        "Contact information in footer",
+        "Quick navigation links",
+        "Social media placeholders",
+        "npm run build passes"
+      ],
+      "priority": 5,
+      "passes": true,
+      "blockedBy": ["F-009", "F-010"],
+      "plan": ".ralph/plans/F-011.plan.md"
+    },
+    {
+      "id": "F-012",
+      "title": "SEO Meta Tags",
+      "description": "Add meta descriptions, Open Graph tags, and JSON-LD structured data.",
+      "acceptanceCriteria": [
+        "Meta descriptions on all pages",
+        "Open Graph tags for products",
+        "JSON-LD product structured data",
+        "npm run build passes"
+      ],
+      "priority": 6,
+      "passes": true,
+      "blockedBy": [],
+      "plan": ".ralph/plans/F-012.plan.md"
+    }
+  ],
+
+  "metadata": {
+    "totalFeatures": 6,
+    "completed": 6,
+    "remaining": 0,
+    "lastUpdated": "2026-01-14T14:00:00Z",
+    "qualityChecks": [
+      "npm run build"
+    ],
+    "sourcePRD": ".ralph/prd/phase2-quality-improvements.md",
+    "codeConstraints": {
+      "maxFileLines": 500,
+      "maxFunctionLines": 50,
+      "maxFilesPerFeature": 3,
+      "maxLinesPerFeature": 200
+    }
+  }
+}

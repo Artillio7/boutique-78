@@ -1,12 +1,15 @@
 'use client';
 
-import Image from 'next/image';
+import { ImageWithFallback } from '@/components/ui/image-with-fallback';
 import Link from 'next/link';
 import { useLocale } from 'next-intl';
 import { motion } from 'framer-motion';
+import { ShoppingCart } from 'lucide-react';
 import { Card, CardContent } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
+import { Button } from '@/components/ui/button';
 import { useCurrency } from '@/lib/currency';
+import { useCart } from '@/lib/cart';
 import type { Product, Locale } from '@/types';
 
 interface ProductCardProps {
@@ -17,10 +20,23 @@ interface ProductCardProps {
 export function ProductCard({ product, index = 0 }: ProductCardProps) {
   const locale = useLocale() as Locale;
   const { formatPrice } = useCurrency();
+  const { addToCart } = useCart();
 
   const title = product.title[locale] || product.title.fr;
   const categoryName = product.category.name[locale] || product.category.name.fr;
   const imageUrl = product.images[0]?.url || '/placeholder.jpg';
+
+  const handleAddToCart = (e: React.MouseEvent) => {
+    e.preventDefault();
+    e.stopPropagation();
+    addToCart({
+      productId: product.id,
+      slug: product.slug,
+      title: title,
+      priceEur: product.pricing.computed.eur,
+      image: imageUrl,
+    });
+  };
 
   return (
     <motion.div
@@ -32,11 +48,12 @@ export function ProductCard({ product, index = 0 }: ProductCardProps) {
         <Card className="group overflow-hidden hover:shadow-lg transition-all duration-300 h-full">
           {/* Image Container */}
           <div className="relative aspect-square overflow-hidden bg-muted">
-            <Image
+            <ImageWithFallback
               src={imageUrl}
               alt={title}
               fill
               className="object-cover group-hover:scale-105 transition-transform duration-500"
+              fallbackClassName="absolute inset-0"
               sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
             />
             {/* Category Badge */}
@@ -46,6 +63,15 @@ export function ProductCard({ product, index = 0 }: ProductCardProps) {
             >
               {categoryName}
             </Badge>
+            {/* Add to Cart Button */}
+            <Button
+              size="icon"
+              variant="secondary"
+              className="absolute bottom-3 right-3 opacity-0 group-hover:opacity-100 transition-opacity bg-background/80 backdrop-blur-sm hover:bg-primary hover:text-primary-foreground"
+              onClick={handleAddToCart}
+            >
+              <ShoppingCart className="h-4 w-4" />
+            </Button>
           </div>
 
           <CardContent className="p-4 space-y-2">

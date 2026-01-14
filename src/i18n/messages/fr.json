@@ -8,7 +8,8 @@
     "catalogue": "Catalogue",
     "categories": "Catégories",
     "contact": "Contact",
-    "search": "Rechercher..."
+    "search": "Rechercher...",
+    "cart": "Panier"
   },
   "home": {
     "hero": {
@@ -55,6 +56,24 @@
     "shareProduct": "Partager ce produit",
     "relatedProducts": "Produits similaires"
   },
+  "quote": {
+    "title": "Demande de devis",
+    "subtitle": "Remplissez ce formulaire pour recevoir un devis personnalisé",
+    "name": "Nom complet",
+    "namePlaceholder": "Votre nom",
+    "email": "Email",
+    "emailPlaceholder": "votre@email.com",
+    "phone": "Téléphone",
+    "phonePlaceholder": "+33 6 00 00 00 00",
+    "message": "Message",
+    "messagePlaceholder": "Décrivez vos besoins...",
+    "submit": "Envoyer la demande",
+    "success": {
+      "title": "Demande envoyée !",
+      "message": "Nous vous répondrons dans les 24h."
+    },
+    "required": "Ce champ est requis"
+  },
   "currency": {
     "label": "Devise",
     "EUR": "Euro (€)",
@@ -65,11 +84,91 @@
     "company": "SAWEI",
     "tagline": "Équipements automobiles professionnels depuis la Chine",
     "links": "Liens utiles",
+    "about": "À propos",
     "contact": "Contact",
+    "legalTitle": "Informations",
     "legal": "Mentions légales",
     "privacy": "Confidentialité",
     "terms": "CGV",
     "copyright": "© 2024 SAWEI. Tous droits réservés."
+  },
+  "checkout": {
+    "title": "Panier",
+    "empty": "Votre panier est vide",
+    "continueShopping": "Continuer mes achats",
+    "quantity": "Quantité",
+    "remove": "Retirer",
+    "subtotal": "Sous-total",
+    "total": "Total",
+    "checkout": "Passer commande",
+    "processing": "Traitement en cours...",
+    "success": {
+      "title": "Merci pour votre commande !",
+      "message": "Votre commande a été confirmée. Vous recevrez un email de confirmation sous peu.",
+      "orderNumber": "Numéro de commande",
+      "backToCatalogue": "Retour au catalogue"
+    }
+  },
+  "whatsapp": {
+    "contact": "Nous contacter sur WhatsApp",
+    "message": "Bonjour, je suis intéressé par le produit: {product}. Pouvez-vous me donner plus d'informations?"
+  },
+  "about": {
+    "title": "À propos de SAWEI",
+    "subtitle": "Votre partenaire en équipements automobiles professionnels",
+    "intro": "SAWEI est un fournisseur leader d'équipements automobiles professionnels, offrant des solutions de qualité industrielle pour les garages et ateliers du monde entier.",
+    "mission": {
+      "title": "Notre Mission",
+      "text": "Fournir des équipements automobiles de haute qualité à des prix compétitifs, avec un service client exceptionnel et un support technique expert."
+    },
+    "services": {
+      "title": "Nos Services",
+      "items": {
+        "equipment": "Équipements de levage et manutention",
+        "spray": "Cabines de peinture et pulvérisation",
+        "tire": "Matériel de pneumatique",
+        "diagnostic": "Équipements de diagnostic",
+        "washing": "Systèmes de lavage",
+        "oil": "Équipements de vidange"
+      }
+    },
+    "whyUs": {
+      "title": "Pourquoi nous choisir ?",
+      "quality": "Qualité garantie",
+      "qualityDesc": "Tous nos équipements sont testés et certifiés",
+      "price": "Prix compétitifs",
+      "priceDesc": "Direct usine, sans intermédiaire",
+      "support": "Support technique",
+      "supportDesc": "Assistance avant et après-vente"
+    }
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "subtitle": "Nous sommes là pour vous aider",
+    "info": {
+      "title": "Informations de contact",
+      "email": "Email",
+      "phone": "Téléphone",
+      "address": "Adresse",
+      "hours": "Horaires",
+      "hoursValue": "Lun-Ven: 9h00 - 18h00"
+    },
+    "form": {
+      "title": "Envoyez-nous un message",
+      "name": "Nom",
+      "email": "Email",
+      "subject": "Sujet",
+      "message": "Message",
+      "submit": "Envoyer",
+      "success": "Message envoyé avec succès !",
+      "successMessage": "Nous vous répondrons dans les plus brefs délais."
+    }
+  },
+  "notFound": {
+    "title": "Page non trouvée",
+    "message": "Désolé, la page que vous recherchez n'existe pas ou a été déplacée.",
+    "backHome": "Retour à l'accueil",
+    "browseCatalogue": "Parcourir le catalogue"
   },
   "common": {
     "loading": "Chargement...",
