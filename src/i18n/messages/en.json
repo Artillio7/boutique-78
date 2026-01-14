@@ -72,6 +72,17 @@
     "terms": "Terms",
     "copyright": "© 2024 SAWEI. All rights reserved."
   },
+  "checkout": {
+    "title": "Cart",
+    "empty": "Your cart is empty",
+    "continueShopping": "Continue shopping",
+    "quantity": "Quantity",
+    "remove": "Remove",
+    "subtotal": "Subtotal",
+    "total": "Total",
+    "checkout": "Checkout",
+    "processing": "Processing..."
+  },
   "common": {
     "loading": "Loading...",
     "error": "An error occurred",

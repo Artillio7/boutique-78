@@ -72,6 +72,17 @@
     "terms": "CGV",
     "copyright": "© 2024 SAWEI. Tous droits réservés."
   },
+  "checkout": {
+    "title": "Panier",
+    "empty": "Votre panier est vide",
+    "continueShopping": "Continuer mes achats",
+    "quantity": "Quantité",
+    "remove": "Retirer",
+    "subtotal": "Sous-total",
+    "total": "Total",
+    "checkout": "Passer commande",
+    "processing": "Traitement en cours..."
+  },
   "common": {
     "loading": "Chargement...",
     "error": "Une erreur est survenue",

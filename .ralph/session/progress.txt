@@ -39,3 +39,22 @@ last_error: none
 
 ---
 
+### Iteration 2 - F-002 - 2026-01-14
+**Feature**: F-002 - Add Cart Button to Product Cards
+**Status**: ✓ COMPLETED
+
+**Changes Made**:
+- src/components/catalogue/ProductCard.tsx: Added hover cart button
+- src/components/layout/Header.tsx: Added cart icon with count badge
+- src/components/catalogue/AddToCartButton.tsx: New client component
+- src/app/[locale]/products/[slug]/page.tsx: Connected to cart
+- src/i18n/messages/*.json: Added cart translations
+
+**Commits**: 0241dc2, d3ed2be
+
+**Learnings**:
+- Server components need client component wrappers for interactivity
+- Visual feedback (checkmark) improves UX
+
+---
+

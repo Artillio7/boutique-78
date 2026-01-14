@@ -5,44 +5,77 @@ import { getProductById } from '@/lib/data';
 // Initialize Stripe (use test key for development)
 const stripe = new Stripe(process.env.STRIPE_SECRET_KEY || 'sk_test_placeholder');
 
+interface CartItem {
+  productId: string;
+  quantity: number;
+}
+
+function calculateUnitAmount(priceEur: number, currency: string): { amount: number; stripeCurrency: string } {
+  switch (currency.toUpperCase()) {
+    case 'XAF':
+      return { amount: Math.round(priceEur * 655.957), stripeCurrency: 'xaf' };
+    case 'CNY':
+      return { amount: Math.round(priceEur * 7.8 * 100), stripeCurrency: 'cny' };
+    case 'EUR':
+    default:
+      return { amount: Math.round(priceEur * 100), stripeCurrency: 'eur' };
+  }
+}
+
 export async function POST(request: NextRequest) {
   try {
     const body = await request.json();
-    const { productId, currency = 'eur', locale = 'fr', quantity = 1 } = body;
+    const { items, productId, currency = 'eur', locale = 'fr', quantity = 1 } = body;
+    const origin = request.headers.get('origin') || 'http://localhost:3000';
 
-    // Get product
+    // Handle cart checkout (multiple items)
+    if (items && Array.isArray(items) && items.length > 0) {
+      const lineItems: Stripe.Checkout.SessionCreateParams.LineItem[] = [];
+      const { stripeCurrency } = calculateUnitAmount(1, currency);
+
+      for (const item of items as CartItem[]) {
+        const product = getProductById(item.productId);
+        if (!product) continue;
+
+        const { amount } = calculateUnitAmount(product.pricing.computed.eur, currency);
+        lineItems.push({
+          price_data: {
+            currency: stripeCurrency,
+            product_data: {
+              name: product.title.fr,
+              description: product.shortDescription?.fr || '',
+              images: product.images.slice(0, 1).map(img => img.url),
+            },
+            unit_amount: amount,
+          },
+          quantity: item.quantity,
+        });
+      }
+
+      if (lineItems.length === 0) {
+        return NextResponse.json({ error: 'No valid products in cart' }, { status: 400 });
+      }
+
+      const session = await stripe.checkout.sessions.create({
+        mode: 'payment',
+        currency: stripeCurrency,
+        locale: locale as Stripe.Checkout.SessionCreateParams.Locale,
+        line_items: lineItems,
+        success_url: `${origin}/${locale}/checkout/success?session_id={CHECKOUT_SESSION_ID}`,
+        cancel_url: `${origin}/${locale}/checkout`,
+      });
+
+      return NextResponse.json({ url: session.url, sessionId: session.id });
+    }
+
+    // Handle single product checkout (legacy)
     const product = getProductById(productId);
     if (!product) {
       return NextResponse.json({ error: 'Product not found' }, { status: 404 });
     }
 
-    // Calculate price based on currency
-    let unitAmount: number;
-    let stripeCurrency: string;
+    const { amount, stripeCurrency } = calculateUnitAmount(product.pricing.computed.eur, currency);
 
-    switch (currency.toUpperCase()) {
-      case 'XAF':
-        // XAF doesn't support decimals, price in cents
-        unitAmount = Math.round(product.pricing.computed.xaf);
-        stripeCurrency = 'xaf';
-        break;
-      case 'CNY':
-        // CNY in cents
-        unitAmount = Math.round(product.pricing.computed.cny * 100);
-        stripeCurrency = 'cny';
-        break;
-      case 'EUR':
-      default:
-        // EUR in cents
-        unitAmount = Math.round(product.pricing.computed.eur * 100);
-        stripeCurrency = 'eur';
-        break;
-    }
-
-    // Get origin for redirect URLs
-    const origin = request.headers.get('origin') || 'http://localhost:3000';
-
-    // Create Stripe Checkout Session
     const session = await stripe.checkout.sessions.create({
       mode: 'payment',
       currency: stripeCurrency,
@@ -53,24 +86,16 @@ export async function POST(request: NextRequest) {
             currency: stripeCurrency,
             product_data: {
               name: product.title.fr,
-              description: product.shortDescription.fr,
+              description: product.shortDescription?.fr || '',
               images: product.images.slice(0, 1).map(img => img.url),
-              metadata: {
-                product_id: product.id,
-                sku: product.sku || '',
-              },
             },
-            unit_amount: unitAmount,
+            unit_amount: amount,
           },
           quantity,
         },
       ],
       success_url: `${origin}/${locale}/checkout/success?session_id={CHECKOUT_SESSION_ID}`,
       cancel_url: `${origin}/${locale}/products/${product.slug}`,
-      metadata: {
-        product_id: product.id,
-        locale,
-      },
     });
 
     return NextResponse.json({ url: session.url, sessionId: session.id });
