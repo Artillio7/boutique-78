@@ -111,6 +111,12 @@
     "contact": "通过WhatsApp联系我们",
     "message": "您好，我对产品感兴趣: {product}。请问您能提供更多信息吗？"
   },
+  "notFound": {
+    "title": "页面未找到",
+    "message": "抱歉，您访问的页面不存在或已被移动。",
+    "backHome": "返回首页",
+    "browseCatalogue": "浏览目录"
+  },
   "common": {
     "loading": "加载中...",
     "error": "发生错误",

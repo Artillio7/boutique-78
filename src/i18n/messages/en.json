@@ -111,6 +111,12 @@
     "contact": "Contact us on WhatsApp",
     "message": "Hello, I am interested in the product: {product}. Can you give me more information?"
   },
+  "notFound": {
+    "title": "Page not found",
+    "message": "Sorry, the page you're looking for doesn't exist or has been moved.",
+    "backHome": "Back to home",
+    "browseCatalogue": "Browse catalogue"
+  },
   "common": {
     "loading": "Loading...",
     "error": "An error occurred",

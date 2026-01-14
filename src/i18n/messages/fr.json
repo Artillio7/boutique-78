@@ -111,6 +111,12 @@
     "contact": "Nous contacter sur WhatsApp",
     "message": "Bonjour, je suis intéressé par le produit: {product}. Pouvez-vous me donner plus d'informations?"
   },
+  "notFound": {
+    "title": "Page non trouvée",
+    "message": "Désolé, la page que vous recherchez n'existe pas ou a été déplacée.",
+    "backHome": "Retour à l'accueil",
+    "browseCatalogue": "Parcourir le catalogue"
+  },
   "common": {
     "loading": "Chargement...",
     "error": "Une erreur est survenue",
