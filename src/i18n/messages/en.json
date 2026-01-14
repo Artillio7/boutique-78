@@ -111,6 +111,35 @@
     "contact": "Contact us on WhatsApp",
     "message": "Hello, I am interested in the product: {product}. Can you give me more information?"
   },
+  "about": {
+    "title": "About SAWEI",
+    "subtitle": "Your partner in professional automotive equipment",
+    "intro": "SAWEI is a leading supplier of professional automotive equipment, offering industrial-quality solutions for garages and workshops worldwide.",
+    "mission": {
+      "title": "Our Mission",
+      "text": "To provide high-quality automotive equipment at competitive prices, with exceptional customer service and expert technical support."
+    },
+    "services": {
+      "title": "Our Services",
+      "items": {
+        "equipment": "Lifting and handling equipment",
+        "spray": "Paint booths and spray systems",
+        "tire": "Tire equipment",
+        "diagnostic": "Diagnostic equipment",
+        "washing": "Washing systems",
+        "oil": "Oil change equipment"
+      }
+    },
+    "whyUs": {
+      "title": "Why Choose Us?",
+      "quality": "Guaranteed Quality",
+      "qualityDesc": "All our equipment is tested and certified",
+      "price": "Competitive Prices",
+      "priceDesc": "Direct from factory, no middleman",
+      "support": "Technical Support",
+      "supportDesc": "Pre and post-sale assistance"
+    }
+  },
   "contact": {
     "title": "Contact Us",
     "subtitle": "We're here to help",

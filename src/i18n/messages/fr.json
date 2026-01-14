@@ -111,6 +111,35 @@
     "contact": "Nous contacter sur WhatsApp",
     "message": "Bonjour, je suis intéressé par le produit: {product}. Pouvez-vous me donner plus d'informations?"
   },
+  "about": {
+    "title": "À propos de SAWEI",
+    "subtitle": "Votre partenaire en équipements automobiles professionnels",
+    "intro": "SAWEI est un fournisseur leader d'équipements automobiles professionnels, offrant des solutions de qualité industrielle pour les garages et ateliers du monde entier.",
+    "mission": {
+      "title": "Notre Mission",
+      "text": "Fournir des équipements automobiles de haute qualité à des prix compétitifs, avec un service client exceptionnel et un support technique expert."
+    },
+    "services": {
+      "title": "Nos Services",
+      "items": {
+        "equipment": "Équipements de levage et manutention",
+        "spray": "Cabines de peinture et pulvérisation",
+        "tire": "Matériel de pneumatique",
+        "diagnostic": "Équipements de diagnostic",
+        "washing": "Systèmes de lavage",
+        "oil": "Équipements de vidange"
+      }
+    },
+    "whyUs": {
+      "title": "Pourquoi nous choisir ?",
+      "quality": "Qualité garantie",
+      "qualityDesc": "Tous nos équipements sont testés et certifiés",
+      "price": "Prix compétitifs",
+      "priceDesc": "Direct usine, sans intermédiaire",
+      "support": "Support technique",
+      "supportDesc": "Assistance avant et après-vente"
+    }
+  },
   "contact": {
     "title": "Contactez-nous",
     "subtitle": "Nous sommes là pour vous aider",

@@ -111,6 +111,35 @@
     "contact": "通过WhatsApp联系我们",
     "message": "您好，我对产品感兴趣: {product}。请问您能提供更多信息吗？"
   },
+  "about": {
+    "title": "关于萨威",
+    "subtitle": "您的专业汽车设备合作伙伴",
+    "intro": "萨威是专业汽车设备的领先供应商，为全球汽车维修厂和车间提供工业级解决方案。",
+    "mission": {
+      "title": "我们的使命",
+      "text": "以有竞争力的价格提供高品质的汽车设备，提供卓越的客户服务和专业的技术支持。"
+    },
+    "services": {
+      "title": "我们的服务",
+      "items": {
+        "equipment": "举升和搬运设备",
+        "spray": "喷漆房和喷涂系统",
+        "tire": "轮胎设备",
+        "diagnostic": "诊断设备",
+        "washing": "清洗系统",
+        "oil": "换油设备"
+      }
+    },
+    "whyUs": {
+      "title": "为什么选择我们？",
+      "quality": "品质保证",
+      "qualityDesc": "所有设备均经过测试和认证",
+      "price": "价格优势",
+      "priceDesc": "厂家直销，无中间商",
+      "support": "技术支持",
+      "supportDesc": "售前售后全程服务"
+    }
+  },
   "contact": {
     "title": "联系我们",
     "subtitle": "我们随时为您服务",
