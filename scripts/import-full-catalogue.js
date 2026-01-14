@@ -188,12 +188,44 @@ categoryFolders.forEach(categorySlug => {
   });
 });
 
+// Deduplicate products by ID (keep the one with shorter slug - cleaner version)
+const productMap = new Map();
+let duplicatesRemoved = 0;
+
+products.forEach(product => {
+  const existing = productMap.get(product.id);
+  if (existing) {
+    // Keep the one with shorter slug (cleaner version without price in slug)
+    if (product.slug.length < existing.slug.length) {
+      productMap.set(product.id, product);
+    }
+    duplicatesRemoved++;
+  } else {
+    productMap.set(product.id, product);
+  }
+});
+
+const uniqueProducts = Array.from(productMap.values());
+console.log(`\nDuplicates removed: ${duplicatesRemoved}`);
+console.log(`Unique products: ${uniqueProducts.length}`);
+
+// Calculate product count per category
+const categoryProductCounts = new Map();
+uniqueProducts.forEach(p => {
+  const count = categoryProductCounts.get(p.category.slug) || 0;
+  categoryProductCounts.set(p.category.slug, count + 1);
+});
+
 // Build final catalogue
 const catalogue = {
-  products: products,
-  categories: Array.from(categories.entries()).map(([slug, name]) => ({ slug, name })),
+  products: uniqueProducts,
+  categories: Array.from(categories.entries()).map(([slug, name]) => ({
+    slug,
+    name,
+    productCount: categoryProductCounts.get(slug) || 0
+  })),
   metadata: {
-    totalProducts: products.length,
+    totalProducts: uniqueProducts.length,
     totalCategories: categories.size,
     generatedAt: new Date().toISOString(),
     source: 'Catalogue_Boutique78'

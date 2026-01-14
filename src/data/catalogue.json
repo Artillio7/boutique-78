@@ -74,103 +74,6 @@
       "sourceUrl": "https://m.wykji.cn/Item/detail/id/79105/page/1/sid/78/pid/0.html"
     },
     {
-      "id": "79105",
-      "slug": "dao-tong-jie-ma-qi-906-max-y-3500-00-yuan-jie-y-35",
-      "sku": "SAWEI-79105",
-      "title": {
-        "fr": "Équipement de détection - 道通解码器906 MAX",
-        "en": "Detection Equipment - 道通解码器906 MAX",
-        "cn": "道通解码器906 MAX"
-      },
-      "description": {
-        "fr": "Équipement automobile professionnel: Équipement de détection - 道通解码器906 MAX",
-        "en": "Professional automotive equipment: Detection Equipment - 道通解码器906 MAX",
-        "cn": "专业汽车设备: 道通解码器906 MAX"
-      },
-      "category": {
-        "slug": "Equipement_de_detection",
-        "name": {
-          "fr": "Équipement de détection",
-          "en": "Detection Equipment",
-          "cn": "检测设备"
-        }
-      },
-      "pricing": {
-        "original": {
-          "cny": 3500
-        },
-        "computed": {
-          "eur": 500.5,
-          "cny": 3500,
-          "xaf": 328306
-        }
-      },
-      "images": [
-        {
-          "url": "https://img.wykji.cn/78/2025-02/67b69753c160a.jpg",
-          "alt": "Product image"
-        },
-        {
-          "url": "https://img.wykji.cn/78/2025-02/67b69760aa796.jpg",
-          "alt": "Product image"
-        },
-        {
-          "url": "https://img.wykji.cn/78/2025-02/67b69760f0988.jpg",
-          "alt": "Product image"
-        },
-        {
-          "url": "https://img.wykji.cn/78/2025-02/67b69763071d7.jpg",
-          "alt": "Product image"
-        },
-        {
-          "url": "https://img.wykji.cn/78/2025-02/67b6976562f2f.jpg",
-          "alt": "Product image"
-        },
-        {
-          "url": "https://img.wykji.cn/78/2025-02/67b6976438e13.jpg",
-          "alt": "Product image"
-        },
-        {
-          "url": "https://img.wykji.cn/78/2025-02/67b6976369569.jpg",
-          "alt": "Product image"
-        },
-        {
-          "url": "https://img.wykji.cn/78/2025-02/67b6976231e0a.jpg",
-          "alt": "Product image"
-        },
-        {
-          "url": "https://img.wykji.cn/78/2025-02/67b697651a1df.jpg",
-          "alt": "Product image"
-        },
-        {
-          "url": "https://img.wykji.cn/78/2025-02/67b69764858b3.jpg",
-          "alt": "Product image"
-        },
-        {
-          "url": "https://img.wykji.cn/78/2025-02/67b69762b7c61.jpg",
-          "alt": "Product image"
-        },
-        {
-          "url": "https://img.wykji.cn/78/2025-02/67b697616c459.jpg",
-          "alt": "Product image"
-        },
-        {
-          "url": "https://img.wykji.cn/78/2025-02/67b6976280e7b.jpg",
-          "alt": "Product image"
-        },
-        {
-          "url": "https://img.wykji.cn/78/2025-02/67b69765a278f.jpg",
-          "alt": "Product image"
-        },
-        {
-          "url": "https://img.wykji.cn/78/2025-02/67b69761d6d48.jpg",
-          "alt": "Product image"
-        }
-      ],
-      "stock": 999,
-      "sourceUrl": "https://m.wykji.cn/Item/detail/id/79105/page/1/sid/78/pid/0.html"
-    },
-    {
       "id": "79263",
       "slug": "dao-tong-jie-ma-qi-ms909-pro",
       "sku": "SAWEI-79263",
@@ -216,47 +119,6 @@
       "sourceUrl": "https://m.wykji.cn/Item/detail/id/79263/page/1/sid/78/pid/0.html"
     },
     {
-      "id": "79263",
-      "slug": "dao-tong-jie-ma-qi-ms909-pro-y-6800-00-yuan-jie-y-",
-      "sku": "SAWEI-79263",
-      "title": {
-        "fr": "Équipement de détection - 道通解码器MS909 PRO",
-        "en": "Detection Equipment - 道通解码器MS909 PRO",
-        "cn": "道通解码器MS909 PRO"
-      },
-      "description": {
-        "fr": "Équipement automobile professionnel: Équipement de détection - 道通解码器MS909 PRO",
-        "en": "Professional automotive equipment: Detection Equipment - 道通解码器MS909 PRO",
-        "cn": "专业汽车设备: 道通解码器MS909 PRO"
-      },
-      "category": {
-        "slug": "Equipement_de_detection",
-        "name": {
-          "fr": "Équipement de détection",
-          "en": "Detection Equipment",
-          "cn": "检测设备"
-        }
-      },
-      "pricing": {
-        "original": {
-          "cny": 6800
-        },
-        "computed": {
-          "eur": 972.4,
-          "cny": 6800,
-          "xaf": 637853
-        }
-      },
-      "images": [
-        {
-          "url": "https://img.wykji.cn/78/2025-05/6815b08ec0bfc.jpg",
-          "alt": "Product image"
-        }
-      ],
-      "stock": 998,
-      "sourceUrl": "https://m.wykji.cn/Item/detail/id/79263/page/1/sid/78/pid/0.html"
-    },
-    {
       "id": "79266",
       "slug": "evdiag-boxxin-neng-yuan-zhen-duan-sheng-ji-bao",
       "sku": "SAWEI-79266",
@@ -299,47 +161,6 @@
         }
       ],
       "stock": 0,
-      "sourceUrl": "https://m.wykji.cn/Item/detail/id/79266/page/1/sid/78/pid/0.html"
-    },
-    {
-      "id": "79266",
-      "slug": "evdiag-boxxin-neng-yuan-zhen-duan-sheng-ji-bao-y-2",
-      "sku": "SAWEI-79266",
-      "title": {
-        "fr": "Équipement de détection - EVDiag BOX新能源诊断升级包",
-        "en": "Detection Equipment - EVDiag BOX新能源诊断升级包",
-        "cn": "EVDiag BOX新能源诊断升级包"
-      },
-      "description": {
-        "fr": "Équipement automobile professionnel: Équipement de détection - EVDiag BOX新能源诊断升级包",
-        "en": "Professional automotive equipment: Detection Equipment - EVDiag BOX新能源诊断升级包",
-        "cn": "专业汽车设备: EVDiag BOX新能源诊断升级包"
-      },
-      "category": {
-        "slug": "Equipement_de_detection",
-        "name": {
-          "fr": "Équipement de détection",
-          "en": "Detection Equipment",
-          "cn": "检测设备"
-        }
-      },
-      "pricing": {
-        "original": {
-          "cny": 2300
-        },
-        "computed": {
-          "eur": 328.9,
-          "cny": 2300,
-          "xaf": 215744
-        }
-      },
-      "images": [
-        {
-          "url": "https://img.wykji.cn/78/2025-05/6815b2791e469.jpg",
-          "alt": "Product image"
-        }
-      ],
-      "stock": 999,
       "sourceUrl": "https://m.wykji.cn/Item/detail/id/79266/page/1/sid/78/pid/0.html"
     },
     {
@@ -416,107 +237,6 @@
       "sourceUrl": "https://m.wykji.cn/Item/detail/id/79395/page/1/sid/78/pid/0.html"
     },
     {
-      "id": "79395",
-      "slug": "lang-ren-qi-che-zhen-duan-yi-e2s-y-6800-00-yuan-ji",
-      "sku": "SAWEI-79395",
-      "title": {
-        "fr": "Équipement de détection - 朗仁汽车诊断仪E2S",
-        "en": "Detection Equipment - 朗仁汽车诊断仪E2S",
-        "cn": "朗仁汽车诊断仪E2S"
-      },
-      "description": {
-        "fr": "Équipement automobile professionnel: Équipement de détection - 朗仁汽车诊断仪E2S",
-        "en": "Professional automotive equipment: Detection Equipment - 朗仁汽车诊断仪E2S",
-        "cn": "专业汽车设备: 朗仁汽车诊断仪E2S"
-      },
-      "category": {
-        "slug": "Equipement_de_detection",
-        "name": {
-          "fr": "Équipement de détection",
-          "en": "Detection Equipment",
-          "cn": "检测设备"
-        }
-      },
-      "pricing": {
-        "original": {
-          "cny": 6800
-        },
-        "computed": {
-          "eur": 972.4,
-          "cny": 6800,
-          "xaf": 637853
-        }
-      },
-      "images": [
-        {
-          "url": "https://img.wykji.cn/78/2025-05/68315e170ab13.jpg",
-          "alt": "Product image"
-        },
-        {
-          "url": "https://img.wykji.cn/78/2025-05/68315e17bdafa.jpg",
-          "alt": "Product image"
-        },
-        {
-          "url": "https://img.wykji.cn/78/2025-05/68315e1a07b84.jpg",
-          "alt": "Product image"
-        },
-        {
-          "url": "https://img.wykji.cn/78/2025-05/68315e20caef9.jpg",
-          "alt": "Product image"
-        },
-        {
-          "url": "https://img.wykji.cn/78/2025-05/68315e1b15156.jpg",
-          "alt": "Product image"
-        },
-        {
-          "url": "https://img.wykji.cn/78/2025-05/68315e1c60f68.jpg",
-          "alt": "Product image"
-        },
-        {
-          "url": "https://img.wykji.cn/78/2025-05/68315e212d867.jpg",
-          "alt": "Product image"
-        },
-        {
-          "url": "https://img.wykji.cn/78/2025-05/68315e1ba5ae0.jpg",
-          "alt": "Product image"
-        },
-        {
-          "url": "https://img.wykji.cn/78/2025-05/68315e1db0b0a.jpg",
-          "alt": "Product image"
-        },
-        {
-          "url": "https://img.wykji.cn/78/2025-05/68315e1ed64f6.jpg",
-          "alt": "Product image"
-        },
-        {
-          "url": "https://img.wykji.cn/78/2025-05/68315e1d10395.jpg",
-          "alt": "Product image"
-        },
-        {
-          "url": "https://img.wykji.cn/78/2025-05/68315e196ccee.jpg",
-          "alt": "Product image"
-        },
-        {
-          "url": "https://img.wykji.cn/78/2025-05/68315e2035b01.jpg",
-          "alt": "Product image"
-        },
-        {
-          "url": "https://img.wykji.cn/78/2025-05/68315e1f81e57.jpg",
-          "alt": "Product image"
-        },
-        {
-          "url": "https://img.wykji.cn/78/2025-05/68315e1899b45.jpg",
-          "alt": "Product image"
-        },
-        {
-          "url": "https://img.wykji.cn/78/2025-05/68315e1a5c6f0.jpg",
-          "alt": "Product image"
-        }
-      ],
-      "stock": 999,
-      "sourceUrl": "https://m.wykji.cn/Item/detail/id/79395/page/1/sid/78/pid/0.html"
-    },
-    {
       "id": "65190",
       "slug": "x-431-pad-viiqi-che-zhen-duan-she-bei",
       "sku": "SAWEI-65190",
@@ -559,47 +279,6 @@
         }
       ],
       "stock": 0,
-      "sourceUrl": "https://m.wykji.cn/Item/detail/id/65190/page/1/sid/78/pid/0.html"
-    },
-    {
-      "id": "65190",
-      "slug": "x-431-pad-viiqi-che-zhen-duan-she-bei-y-11500-00-y",
-      "sku": "SAWEI-65190",
-      "title": {
-        "fr": "Équipement de détection - X-431 PAD VII汽车诊断设备",
-        "en": "Detection Equipment - X-431 PAD VII汽车诊断设备",
-        "cn": "X-431 PAD VII汽车诊断设备"
-      },
-      "description": {
-        "fr": "Équipement automobile professionnel: Équipement de détection - X-431 PAD VII汽车诊断设备",
-        "en": "Professional automotive equipment: Detection Equipment - X-431 PAD VII汽车诊断设备",
-        "cn": "专业汽车设备: X-431 PAD VII汽车诊断设备"
-      },
-      "category": {
-        "slug": "Equipement_de_detection",
-        "name": {
-          "fr": "Équipement de détection",
-          "en": "Detection Equipment",
-          "cn": "检测设备"
-        }
-      },
-      "pricing": {
-        "original": {
-          "cny": 11500
-        },
-        "computed": {
-          "eur": 1644.5,
-          "cny": 11500,
-          "xaf": 1078721
-        }
-      },
-      "images": [
-        {
-          "url": "https://img.wykji.cn/78/2023-11/655f2a6f7b370.png",
-          "alt": "Product image"
-        }
-      ],
-      "stock": 999,
       "sourceUrl": "https://m.wykji.cn/Item/detail/id/65190/page/1/sid/78/pid/0.html"
     },
     {
@@ -682,47 +361,6 @@
         }
       ],
       "stock": 0,
-      "sourceUrl": "https://m.wykji.cn/Item/detail/id/76711/page/1/sid/78/pid/0.html"
-    },
-    {
-      "id": "76711",
-      "slug": "x-431-pro-3s-v5-0qi-che-zhen-duan-she-bei-y-3380-0",
-      "sku": "SAWEI-76711",
-      "title": {
-        "fr": "Équipement de détection - X-431 PRO 3S+ V5.0汽车诊断设备",
-        "en": "Detection Equipment - X-431 PRO 3S+ V5.0汽车诊断设备",
-        "cn": "X-431 PRO 3S+ V5.0汽车诊断设备"
-      },
-      "description": {
-        "fr": "Équipement automobile professionnel: Équipement de détection - X-431 PRO 3S+ V5.0汽车诊断设备",
-        "en": "Professional automotive equipment: Detection Equipment - X-431 PRO 3S+ V5.0汽车诊断设备",
-        "cn": "专业汽车设备: X-431 PRO 3S+ V5.0汽车诊断设备"
-      },
-      "category": {
-        "slug": "Equipement_de_detection",
-        "name": {
-          "fr": "Équipement de détection",
-          "en": "Detection Equipment",
-          "cn": "检测设备"
-        }
-      },
-      "pricing": {
-        "original": {
-          "cny": 3380
-        },
-        "computed": {
-          "eur": 483.34,
-          "cny": 3380,
-          "xaf": 317050
-        }
-      },
-      "images": [
-        {
-          "url": "http://img.wykji.cn/78/2020-01/5e1152055e503.jpg",
-          "alt": "Product image"
-        }
-      ],
-      "stock": 999,
       "sourceUrl": "https://m.wykji.cn/Item/detail/id/76711/page/1/sid/78/pid/0.html"
     },
     {
@@ -812,47 +450,6 @@
       "sourceUrl": "https://m.wykji.cn/Item/detail/id/15466/page/1/sid/78/pid/0.html"
     },
     {
-      "id": "15466",
-      "slug": "yuan-zheng-qi-che-zhen-duan-yi-padv-y-5980-00-yuan",
-      "sku": "SAWEI-15466",
-      "title": {
-        "fr": "Équipement de détection - 元征汽车诊断仪PADV",
-        "en": "Detection Equipment - 元征汽车诊断仪PADV",
-        "cn": "元征汽车诊断仪PADV"
-      },
-      "description": {
-        "fr": "Équipement automobile professionnel: Équipement de détection - 元征汽车诊断仪PADV",
-        "en": "Professional automotive equipment: Detection Equipment - 元征汽车诊断仪PADV",
-        "cn": "专业汽车设备: 元征汽车诊断仪PADV"
-      },
-      "category": {
-        "slug": "Equipement_de_detection",
-        "name": {
-          "fr": "Équipement de détection",
-          "en": "Detection Equipment",
-          "cn": "检测设备"
-        }
-      },
-      "pricing": {
-        "original": {
-          "cny": 5980
-        },
-        "computed": {
-          "eur": 855.14,
-          "cny": 5980,
-          "xaf": 560935
-        }
-      },
-      "images": [
-        {
-          "url": "http://img.wykji.cn/78/2020-06/5ee222f1dfab5.jpg",
-          "alt": "Product image"
-        }
-      ],
-      "stock": 100,
-      "sourceUrl": "https://m.wykji.cn/Item/detail/id/15466/page/1/sid/78/pid/0.html"
-    },
-    {
       "id": "11774",
       "slug": "yuan-zheng-x-431-pro-3s-shang-yong-che-cheng-shang",
       "sku": "SAWEI-11774",
@@ -935,47 +532,6 @@
       "sourceUrl": "https://m.wykji.cn/Item/detail/id/23547/page/1/sid/78/pid/0.html"
     },
     {
-      "id": "23547",
-      "slug": "fxi-lie-di-ban-ju-sheng-ji-ee-f9-y-9500-00-yuan-ji",
-      "sku": "SAWEI-23547",
-      "title": {
-        "fr": "Équipement de levage - F系列底板举升机EE-F9",
-        "en": "Lifting Equipment - F系列底板举升机EE-F9",
-        "cn": "F系列底板举升机EE-F9"
-      },
-      "description": {
-        "fr": "Équipement automobile professionnel: Équipement de levage - F系列底板举升机EE-F9",
-        "en": "Professional automotive equipment: Lifting Equipment - F系列底板举升机EE-F9",
-        "cn": "专业汽车设备: F系列底板举升机EE-F9"
-      },
-      "category": {
-        "slug": "Equipement_de_levage",
-        "name": {
-          "fr": "Équipement de levage",
-          "en": "Lifting Equipment",
-          "cn": "举升设备"
-        }
-      },
-      "pricing": {
-        "original": {
-          "cny": 9500
-        },
-        "computed": {
-          "eur": 1358.5,
-          "cny": 9500,
-          "xaf": 891118
-        }
-      },
-      "images": [
-        {
-          "url": "https://img.wykji.cn/78/2025-03/67d56721954e5.jpg",
-          "alt": "Product image"
-        }
-      ],
-      "stock": 999,
-      "sourceUrl": "https://m.wykji.cn/Item/detail/id/23547/page/1/sid/78/pid/0.html"
-    },
-    {
       "id": "78846",
       "slug": "jie-shi-tong-long-men-ju-sheng-ji",
       "sku": "SAWEI-78846",
@@ -1018,47 +574,6 @@
         }
       ],
       "stock": 0,
-      "sourceUrl": "https://m.wykji.cn/Item/detail/id/78846/page/1/sid/78/pid/0.html"
-    },
-    {
-      "id": "78846",
-      "slug": "jie-shi-tong-long-men-ju-sheng-ji-y-6300-00-yuan-j",
-      "sku": "SAWEI-78846",
-      "title": {
-        "fr": "Équipement de levage - 捷士通龙门举升机",
-        "en": "Lifting Equipment - 捷士通龙门举升机",
-        "cn": "捷士通龙门举升机"
-      },
-      "description": {
-        "fr": "Équipement automobile professionnel: Équipement de levage - 捷士通龙门举升机",
-        "en": "Professional automotive equipment: Lifting Equipment - 捷士通龙门举升机",
-        "cn": "专业汽车设备: 捷士通龙门举升机"
-      },
-      "category": {
-        "slug": "Equipement_de_levage",
-        "name": {
-          "fr": "Équipement de levage",
-          "en": "Lifting Equipment",
-          "cn": "举升设备"
-        }
-      },
-      "pricing": {
-        "original": {
-          "cny": 6300
-        },
-        "computed": {
-          "eur": 900.9,
-          "cny": 6300,
-          "xaf": 590952
-        }
-      },
-      "images": [
-        {
-          "url": "https://img.wykji.cn/78/2024-07/6689ede9179ae.jpg",
-          "alt": "Product image"
-        }
-      ],
-      "stock": 995,
       "sourceUrl": "https://m.wykji.cn/Item/detail/id/78846/page/1/sid/78/pid/0.html"
     },
     {
@@ -1107,47 +622,6 @@
       "sourceUrl": "https://m.wykji.cn/Item/detail/id/79143/page/1/sid/78/pid/0.html"
     },
     {
-      "id": "79143",
-      "slug": "ke-diao-long-men-ju-sheng-ji-u-t42ba-y-7600-00-yua",
-      "sku": "SAWEI-79143",
-      "title": {
-        "fr": "Équipement de levage - 可调龙门举升机U-T42BA",
-        "en": "Lifting Equipment - 可调龙门举升机U-T42BA",
-        "cn": "可调龙门举升机U-T42BA"
-      },
-      "description": {
-        "fr": "Équipement automobile professionnel: Équipement de levage - 可调龙门举升机U-T42BA",
-        "en": "Professional automotive equipment: Lifting Equipment - 可调龙门举升机U-T42BA",
-        "cn": "专业汽车设备: 可调龙门举升机U-T42BA"
-      },
-      "category": {
-        "slug": "Equipement_de_levage",
-        "name": {
-          "fr": "Équipement de levage",
-          "en": "Lifting Equipment",
-          "cn": "举升设备"
-        }
-      },
-      "pricing": {
-        "original": {
-          "cny": 7600
-        },
-        "computed": {
-          "eur": 1086.8,
-          "cny": 7600,
-          "xaf": 712894
-        }
-      },
-      "images": [
-        {
-          "url": "https://img.wykji.cn/78/2025-02/67b6bd36d9fbf.jpg",
-          "alt": "Product image"
-        }
-      ],
-      "stock": 999,
-      "sourceUrl": "https://m.wykji.cn/Item/detail/id/79143/page/1/sid/78/pid/0.html"
-    },
-    {
       "id": "23573",
       "slug": "long-men-ju-sheng-ji-u-t42a",
       "sku": "SAWEI-23573",
@@ -1190,47 +664,6 @@
         }
       ],
       "stock": 0,
-      "sourceUrl": "https://m.wykji.cn/Item/detail/id/23573/page/1/sid/78/pid/0.html"
-    },
-    {
-      "id": "23573",
-      "slug": "long-men-ju-sheng-ji-u-t42a-y-7380-00-yuan-jie-y-7",
-      "sku": "SAWEI-23573",
-      "title": {
-        "fr": "Équipement de levage - 龙门举升机U-T42A",
-        "en": "Lifting Equipment - 龙门举升机U-T42A",
-        "cn": "龙门举升机U-T42A"
-      },
-      "description": {
-        "fr": "Équipement automobile professionnel: Équipement de levage - 龙门举升机U-T42A",
-        "en": "Professional automotive equipment: Lifting Equipment - 龙门举升机U-T42A",
-        "cn": "专业汽车设备: 龙门举升机U-T42A"
-      },
-      "category": {
-        "slug": "Equipement_de_levage",
-        "name": {
-          "fr": "Équipement de levage",
-          "en": "Lifting Equipment",
-          "cn": "举升设备"
-        }
-      },
-      "pricing": {
-        "original": {
-          "cny": 7380
-        },
-        "computed": {
-          "eur": 1055.34,
-          "cny": 7380,
-          "xaf": 692258
-        }
-      },
-      "images": [
-        {
-          "url": "http://img.wykji.cn/78/2022-10/6344c314486c5.jpg",
-          "alt": "Product image"
-        }
-      ],
-      "stock": 999,
       "sourceUrl": "https://m.wykji.cn/Item/detail/id/23573/page/1/sid/78/pid/0.html"
     },
     {
@@ -1279,47 +712,6 @@
       "sourceUrl": "https://m.wykji.cn/Item/detail/id/23325/page/1/sid/78/pid/0.html"
     },
     {
-      "id": "23325",
-      "slug": "shuang-zhu-ju-sheng-ji-j346s-y-5980-00-yuan-jie-y-",
-      "sku": "SAWEI-23325",
-      "title": {
-        "fr": "Équipement de levage - 双柱举升机J346S",
-        "en": "Lifting Equipment - 双柱举升机J346S",
-        "cn": "双柱举升机J346S"
-      },
-      "description": {
-        "fr": "Équipement automobile professionnel: Équipement de levage - 双柱举升机J346S",
-        "en": "Professional automotive equipment: Lifting Equipment - 双柱举升机J346S",
-        "cn": "专业汽车设备: 双柱举升机J346S"
-      },
-      "category": {
-        "slug": "Equipement_de_levage",
-        "name": {
-          "fr": "Équipement de levage",
-          "en": "Lifting Equipment",
-          "cn": "举升设备"
-        }
-      },
-      "pricing": {
-        "original": {
-          "cny": 5980
-        },
-        "computed": {
-          "eur": 855.14,
-          "cny": 5980,
-          "xaf": 560935
-        }
-      },
-      "images": [
-        {
-          "url": "http://img.wykji.cn/78/2022-03/624287fa18f23.jpg",
-          "alt": "Product image"
-        }
-      ],
-      "stock": 999,
-      "sourceUrl": "https://m.wykji.cn/Item/detail/id/23325/page/1/sid/78/pid/0.html"
-    },
-    {
       "id": "23571",
       "slug": "shuang-zhu-ju-sheng-ji-u-t42",
       "sku": "SAWEI-23571",
@@ -1365,47 +757,6 @@
       "sourceUrl": "https://m.wykji.cn/Item/detail/id/23571/page/1/sid/78/pid/0.html"
     },
     {
-      "id": "23571",
-      "slug": "shuang-zhu-ju-sheng-ji-u-t42-y-6800-00-yuan-jie-y-",
-      "sku": "SAWEI-23571",
-      "title": {
-        "fr": "Équipement de levage - 双柱举升机U-T42",
-        "en": "Lifting Equipment - 双柱举升机U-T42",
-        "cn": "双柱举升机U-T42"
-      },
-      "description": {
-        "fr": "Équipement automobile professionnel: Équipement de levage - 双柱举升机U-T42",
-        "en": "Professional automotive equipment: Lifting Equipment - 双柱举升机U-T42",
-        "cn": "专业汽车设备: 双柱举升机U-T42"
-      },
-      "category": {
-        "slug": "Equipement_de_levage",
-        "name": {
-          "fr": "Équipement de levage",
-          "en": "Lifting Equipment",
-          "cn": "举升设备"
-        }
-      },
-      "pricing": {
-        "original": {
-          "cny": 6800
-        },
-        "computed": {
-          "eur": 972.4,
-          "cny": 6800,
-          "xaf": 637853
-        }
-      },
-      "images": [
-        {
-          "url": "http://img.wykji.cn/78/2022-10/6344c130b0741.jpg",
-          "alt": "Product image"
-        }
-      ],
-      "stock": 999,
-      "sourceUrl": "https://m.wykji.cn/Item/detail/id/23571/page/1/sid/78/pid/0.html"
-    },
-    {
       "id": "79055",
       "slug": "u-t50a1long-men-ju-sheng-ji",
       "sku": "SAWEI-79055",
@@ -1444,47 +795,6 @@
         }
       ],
       "stock": 0,
-      "sourceUrl": "https://m.wykji.cn/Item/detail/id/79055/page/1/sid/78/pid/0.html"
-    },
-    {
-      "id": "79055",
-      "slug": "u-t50a1long-men-ju-sheng-ji-y-9800-00-yuan-jie-y-1",
-      "sku": "SAWEI-79055",
-      "title": {
-        "fr": "Équipement de levage - U-T50A1龙门举升机",
-        "en": "Lifting Equipment - U-T50A1龙门举升机",
-        "cn": "U-T50A1龙门举升机"
-      },
-      "description": {
-        "fr": "Équipement automobile professionnel: Équipement de levage - U-T50A1龙门举升机",
-        "en": "Professional automotive equipment: Lifting Equipment - U-T50A1龙门举升机",
-        "cn": "专业汽车设备: U-T50A1龙门举升机"
-      },
-      "category": {
-        "slug": "Equipement_de_levage",
-        "name": {
-          "fr": "Équipement de levage",
-          "en": "Lifting Equipment",
-          "cn": "举升设备"
-        }
-      },
-      "pricing": {
-        "original": {
-          "cny": 9800
-        },
-        "computed": {
-          "eur": 1401.4,
-          "cny": 9800,
-          "xaf": 919258
-        }
-      },
-      "images": [
-        {
-          "url": "https://img.wykji.cn/78/2025-01/677cc3dd9801c.jpg",
-          "alt": "Product image"
-        }
-      ],
-      "stock": 999,
       "sourceUrl": "https://m.wykji.cn/Item/detail/id/79055/page/1/sid/78/pid/0.html"
     },
     {
@@ -1542,63 +852,6 @@
         }
       ],
       "stock": 0,
-      "sourceUrl": "https://m.wykji.cn/Item/detail/id/12469/page/1/sid/78/pid/0.html"
-    },
-    {
-      "id": "12469",
-      "slug": "yuan-zheng-3-5dun-long-men-ju-sheng-ji-y-7000-00-y",
-      "sku": "SAWEI-12469",
-      "title": {
-        "fr": "Équipement de levage - 元征3.5吨龙门举升机",
-        "en": "Lifting Equipment - 元征3.5吨龙门举升机",
-        "cn": "元征3.5吨龙门举升机"
-      },
-      "description": {
-        "fr": "Équipement automobile professionnel: Équipement de levage - 元征3.5吨龙门举升机",
-        "en": "Professional automotive equipment: Lifting Equipment - 元征3.5吨龙门举升机",
-        "cn": "专业汽车设备: 元征3.5吨龙门举升机"
-      },
-      "category": {
-        "slug": "Equipement_de_levage",
-        "name": {
-          "fr": "Équipement de levage",
-          "en": "Lifting Equipment",
-          "cn": "举升设备"
-        }
-      },
-      "pricing": {
-        "original": {
-          "cny": 7000
-        },
-        "computed": {
-          "eur": 1001,
-          "cny": 7000,
-          "xaf": 656613
-        }
-      },
-      "images": [
-        {
-          "url": "http://img.wykji.cn/78/2021-02/6017f0e99508f.jpg",
-          "alt": "Product image"
-        },
-        {
-          "url": "http://img.wykji.cn/78/2020-09/5f509046d82a3.JPG",
-          "alt": "Product image"
-        },
-        {
-          "url": "http://img.wykji.cn/78/2020-09/5f6029dfe6cba.jpg",
-          "alt": "Product image"
-        },
-        {
-          "url": "http://img.wykji.cn/78/2019-10/5d96abf6a8409.jpg",
-          "alt": "Product image"
-        },
-        {
-          "url": "http://img.wykji.cn/78/2019-10/5d96abf67bbc0.jpg",
-          "alt": "Product image"
-        }
-      ],
-      "stock": 99998,
       "sourceUrl": "https://m.wykji.cn/Item/detail/id/12469/page/1/sid/78/pid/0.html"
     },
     {
@@ -1667,71 +920,6 @@
       "sourceUrl": "https://m.wykji.cn/Item/detail/id/11733/page/1/sid/78/pid/0.html"
     },
     {
-      "id": "11733",
-      "slug": "yuan-zheng-3-5dun-shuang-zhu-ju-sheng-ji-y-6800-00",
-      "sku": "SAWEI-11733",
-      "title": {
-        "fr": "Équipement de levage - 元征3.5吨双柱举升机",
-        "en": "Lifting Equipment - 元征3.5吨双柱举升机",
-        "cn": "元征3.5吨双柱举升机"
-      },
-      "description": {
-        "fr": "Équipement automobile professionnel: Équipement de levage - 元征3.5吨双柱举升机",
-        "en": "Professional automotive equipment: Lifting Equipment - 元征3.5吨双柱举升机",
-        "cn": "专业汽车设备: 元征3.5吨双柱举升机"
-      },
-      "category": {
-        "slug": "Equipement_de_levage",
-        "name": {
-          "fr": "Équipement de levage",
-          "en": "Lifting Equipment",
-          "cn": "举升设备"
-        }
-      },
-      "pricing": {
-        "original": {
-          "cny": 6800
-        },
-        "computed": {
-          "eur": 972.4,
-          "cny": 6800,
-          "xaf": 637853
-        }
-      },
-      "images": [
-        {
-          "url": "http://img.wykji.cn/78/2019-10/5d9be806cef93.jpg",
-          "alt": "Product image"
-        },
-        {
-          "url": "http://img.wykji.cn/78/2021-02/6017f09042554.jpg",
-          "alt": "Product image"
-        },
-        {
-          "url": "http://img.wykji.cn/78/2020-09/5f6029d6e16a2.JPG",
-          "alt": "Product image"
-        },
-        {
-          "url": "http://img.wykji.cn/78/2020-09/5f6029dfe6cba.jpg",
-          "alt": "Product image"
-        },
-        {
-          "url": "http://img.wykji.cn/78/2019-10/5d9be8071590b.jpg",
-          "alt": "Product image"
-        },
-        {
-          "url": "http://img.wykji.cn/78/2019-10/5d9be807430b6.jpg",
-          "alt": "Product image"
-        },
-        {
-          "url": "http://img.wykji.cn/78/2019-10/5d9be807784fa.jpg",
-          "alt": "Product image"
-        }
-      ],
-      "stock": 99999,
-      "sourceUrl": "https://m.wykji.cn/Item/detail/id/11733/page/1/sid/78/pid/0.html"
-    },
-    {
       "id": "17803",
       "slug": "yuan-zheng-4dun-long-men-ju-sheng-ji",
       "sku": "SAWEI-17803",
@@ -1778,51 +966,6 @@
         }
       ],
       "stock": 0,
-      "sourceUrl": "https://m.wykji.cn/Item/detail/id/17803/page/1/sid/78/pid/0.html"
-    },
-    {
-      "id": "17803",
-      "slug": "yuan-zheng-4dun-long-men-ju-sheng-ji-y-7300-00-yua",
-      "sku": "SAWEI-17803",
-      "title": {
-        "fr": "Équipement de levage - 元征4吨龙门举升机",
-        "en": "Lifting Equipment - 元征4吨龙门举升机",
-        "cn": "元征4吨龙门举升机"
-      },
-      "description": {
-        "fr": "Équipement automobile professionnel: Équipement de levage - 元征4吨龙门举升机",
-        "en": "Professional automotive equipment: Lifting Equipment - 元征4吨龙门举升机",
-        "cn": "专业汽车设备: 元征4吨龙门举升机"
-      },
-      "category": {
-        "slug": "Equipement_de_levage",
-        "name": {
-          "fr": "Équipement de levage",
-          "en": "Lifting Equipment",
-          "cn": "举升设备"
-        }
-      },
-      "pricing": {
-        "original": {
-          "cny": 7300
-        },
-        "computed": {
-          "eur": 1043.9,
-          "cny": 7300,
-          "xaf": 684754
-        }
-      },
-      "images": [
-        {
-          "url": "https://img.wykji.cn/78/2023-11/654335ad51c26.jpg",
-          "alt": "Product image"
-        },
-        {
-          "url": "http://img.wykji.cn/78/2020-09/5f6029dfe6cba.jpg",
-          "alt": "Product image"
-        }
-      ],
-      "stock": 999,
       "sourceUrl": "https://m.wykji.cn/Item/detail/id/17803/page/1/sid/78/pid/0.html"
     },
     {
@@ -2297,47 +1440,6 @@
       "sourceUrl": "https://m.wykji.cn/Item/detail/id/79233/page/1/sid/78/pid/0.html"
     },
     {
-      "id": "79233",
-      "slug": "da-mo-fang-y-26000-00-yuan-jie-y-29000-00-ku-cun-9",
-      "sku": "SAWEI-79233",
-      "title": {
-        "fr": "Équipement pulvérisateur - 打磨房",
-        "en": "Spray Equipment - 打磨房",
-        "cn": "打磨房"
-      },
-      "description": {
-        "fr": "Équipement automobile professionnel: Équipement pulvérisateur - 打磨房",
-        "en": "Professional automotive equipment: Spray Equipment - 打磨房",
-        "cn": "专业汽车设备: 打磨房"
-      },
-      "category": {
-        "slug": "Equipement_pulverisateur",
-        "name": {
-          "fr": "Équipement pulvérisateur",
-          "en": "Spray Equipment",
-          "cn": "喷涂设备"
-        }
-      },
-      "pricing": {
-        "original": {
-          "cny": 26000
-        },
-        "computed": {
-          "eur": 3718,
-          "cny": 26000,
-          "xaf": 2438848
-        }
-      },
-      "images": [
-        {
-          "url": "http://img.wykji.cn/78/2021-12/61c7eaecef06d.jpg",
-          "alt": "Product image"
-        }
-      ],
-      "stock": 999,
-      "sourceUrl": "https://m.wykji.cn/Item/detail/id/79233/page/1/sid/78/pid/0.html"
-    },
-    {
       "id": "24292",
       "slug": "feng-wo-huo-xing-tan-huan-bao-ju",
       "sku": "SAWEI-24292",
@@ -2380,47 +1482,6 @@
         }
       ],
       "stock": 0,
-      "sourceUrl": "https://m.wykji.cn/Item/detail/id/24292/page/1/sid/78/pid/0.html"
-    },
-    {
-      "id": "24292",
-      "slug": "feng-wo-huo-xing-tan-huan-bao-ju-y-15000-00-yuan-j",
-      "sku": "SAWEI-24292",
-      "title": {
-        "fr": "Équipement pulvérisateur - 蜂窝活性碳环保柜",
-        "en": "Spray Equipment - 蜂窝活性碳环保柜",
-        "cn": "蜂窝活性碳环保柜"
-      },
-      "description": {
-        "fr": "Équipement automobile professionnel: Équipement pulvérisateur - 蜂窝活性碳环保柜",
-        "en": "Professional automotive equipment: Spray Equipment - 蜂窝活性碳环保柜",
-        "cn": "专业汽车设备: 蜂窝活性碳环保柜"
-      },
-      "category": {
-        "slug": "Equipement_pulverisateur",
-        "name": {
-          "fr": "Équipement pulvérisateur",
-          "en": "Spray Equipment",
-          "cn": "喷涂设备"
-        }
-      },
-      "pricing": {
-        "original": {
-          "cny": 15000
-        },
-        "computed": {
-          "eur": 2145,
-          "cny": 15000,
-          "xaf": 1407028
-        }
-      },
-      "images": [
-        {
-          "url": "http://img.wykji.cn/78/2023-04/6441feb4734b4.jpg",
-          "alt": "Product image"
-        }
-      ],
-      "stock": 999,
       "sourceUrl": "https://m.wykji.cn/Item/detail/id/24292/page/1/sid/78/pid/0.html"
     },
     {
@@ -2469,47 +1530,6 @@
       "sourceUrl": "https://m.wykji.cn/Item/detail/id/23260/page/1/sid/78/pid/0.html"
     },
     {
-      "id": "23260",
-      "slug": "kao-qi-deng-fy-8000l-y-13900-00-yuan-jie-y-13900-0",
-      "sku": "SAWEI-23260",
-      "title": {
-        "fr": "Équipement pulvérisateur - 烤漆灯FY-8000L",
-        "en": "Spray Equipment - 烤漆灯FY-8000L",
-        "cn": "烤漆灯FY-8000L"
-      },
-      "description": {
-        "fr": "Équipement automobile professionnel: Équipement pulvérisateur - 烤漆灯FY-8000L",
-        "en": "Professional automotive equipment: Spray Equipment - 烤漆灯FY-8000L",
-        "cn": "专业汽车设备: 烤漆灯FY-8000L"
-      },
-      "category": {
-        "slug": "Equipement_pulverisateur",
-        "name": {
-          "fr": "Équipement pulvérisateur",
-          "en": "Spray Equipment",
-          "cn": "喷涂设备"
-        }
-      },
-      "pricing": {
-        "original": {
-          "cny": 13900
-        },
-        "computed": {
-          "eur": 1987.7,
-          "cny": 13900,
-          "xaf": 1303846
-        }
-      },
-      "images": [
-        {
-          "url": "http://img.wykji.cn/78/2021-12/61c93bb7a1734.jpg",
-          "alt": "Product image"
-        }
-      ],
-      "stock": 999,
-      "sourceUrl": "https://m.wykji.cn/Item/detail/id/23260/page/1/sid/78/pid/0.html"
-    },
-    {
       "id": "12577",
       "slug": "kao-qi-fang-bu-dai-huan-bao-dl-100",
       "sku": "SAWEI-12577",
@@ -2551,47 +1571,6 @@
       "sourceUrl": "https://m.wykji.cn/Item/detail/id/12577/page/1/sid/78/pid/0.html"
     },
     {
-      "id": "12577",
-      "slug": "kao-qi-fang-bu-dai-huan-bao-dl-100-y-39000-00-yuan",
-      "sku": "SAWEI-12577",
-      "title": {
-        "fr": "Équipement pulvérisateur - 烤漆房（不带环保DL-100)",
-        "en": "Spray Equipment - 烤漆房（不带环保DL-100)",
-        "cn": "烤漆房（不带环保DL-100)"
-      },
-      "description": {
-        "fr": "Équipement automobile professionnel: Équipement pulvérisateur - 烤漆房（不带环保DL-100)",
-        "en": "Professional automotive equipment: Spray Equipment - 烤漆房（不带环保DL-100)",
-        "cn": "专业汽车设备: 烤漆房（不带环保DL-100)"
-      },
-      "category": {
-        "slug": "Equipement_pulverisateur",
-        "name": {
-          "fr": "Équipement pulvérisateur",
-          "en": "Spray Equipment",
-          "cn": "喷涂设备"
-        }
-      },
-      "pricing": {
-        "original": {
-          "cny": 39000
-        },
-        "computed": {
-          "eur": 5577,
-          "cny": 39000,
-          "xaf": 3658272
-        }
-      },
-      "images": [
-        {
-          "url": "http://img.wykji.cn/78/2020-01/5e1152055e503.jpg",
-          "alt": "Product image"
-        }
-      ],
-      "stock": 100,
-      "sourceUrl": "https://m.wykji.cn/Item/detail/id/12577/page/1/sid/78/pid/0.html"
-    },
-    {
       "id": "23252",
       "slug": "kao-qi-fang-bu-dai-huan-bao-dl-200",
       "sku": "SAWEI-23252",
@@ -2630,47 +1609,6 @@
         }
       ],
       "stock": 0,
-      "sourceUrl": "https://m.wykji.cn/Item/detail/id/23252/page/1/sid/78/pid/0.html"
-    },
-    {
-      "id": "23252",
-      "slug": "kao-qi-fang-bu-dai-huan-bao-dl-200-y-58000-00-yuan",
-      "sku": "SAWEI-23252",
-      "title": {
-        "fr": "Équipement pulvérisateur - 烤漆房(不带环保DL-200）",
-        "en": "Spray Equipment - 烤漆房(不带环保DL-200）",
-        "cn": "烤漆房(不带环保DL-200）"
-      },
-      "description": {
-        "fr": "Équipement automobile professionnel: Équipement pulvérisateur - 烤漆房(不带环保DL-200）",
-        "en": "Professional automotive equipment: Spray Equipment - 烤漆房(不带环保DL-200）",
-        "cn": "专业汽车设备: 烤漆房(不带环保DL-200）"
-      },
-      "category": {
-        "slug": "Equipement_pulverisateur",
-        "name": {
-          "fr": "Équipement pulvérisateur",
-          "en": "Spray Equipment",
-          "cn": "喷涂设备"
-        }
-      },
-      "pricing": {
-        "original": {
-          "cny": 58000
-        },
-        "computed": {
-          "eur": 8294,
-          "cny": 58000,
-          "xaf": 5440507
-        }
-      },
-      "images": [
-        {
-          "url": "http://img.wykji.cn/78/2020-01/5e1152055e503.jpg",
-          "alt": "Product image"
-        }
-      ],
-      "stock": 999,
       "sourceUrl": "https://m.wykji.cn/Item/detail/id/23252/page/1/sid/78/pid/0.html"
     },
     {
@@ -2719,47 +1657,6 @@
       "sourceUrl": "https://m.wykji.cn/Item/detail/id/23254/page/1/sid/78/pid/0.html"
     },
     {
-      "id": "23254",
-      "slug": "kao-qi-fang-ql-s413h-y-186000-00-yuan-jie-y-186000",
-      "sku": "SAWEI-23254",
-      "title": {
-        "fr": "Équipement pulvérisateur - 烤漆房QL-S413H",
-        "en": "Spray Equipment - 烤漆房QL-S413H",
-        "cn": "烤漆房QL-S413H"
-      },
-      "description": {
-        "fr": "Équipement automobile professionnel: Équipement pulvérisateur - 烤漆房QL-S413H",
-        "en": "Professional automotive equipment: Spray Equipment - 烤漆房QL-S413H",
-        "cn": "专业汽车设备: 烤漆房QL-S413H"
-      },
-      "category": {
-        "slug": "Equipement_pulverisateur",
-        "name": {
-          "fr": "Équipement pulvérisateur",
-          "en": "Spray Equipment",
-          "cn": "喷涂设备"
-        }
-      },
-      "pricing": {
-        "original": {
-          "cny": 186000
-        },
-        "computed": {
-          "eur": 26598,
-          "cny": 186000,
-          "xaf": 17447144
-        }
-      },
-      "images": [
-        {
-          "url": "http://img.wykji.cn/78/2021-12/61c7e8f80acef.jpg",
-          "alt": "Product image"
-        }
-      ],
-      "stock": 999,
-      "sourceUrl": "https://m.wykji.cn/Item/detail/id/23254/page/1/sid/78/pid/0.html"
-    },
-    {
       "id": "23521",
       "slug": "ke-li-huo-xing-tan-huan-bao-ju",
       "sku": "SAWEI-23521",
@@ -2802,47 +1699,6 @@
         }
       ],
       "stock": 0,
-      "sourceUrl": "https://m.wykji.cn/Item/detail/id/23521/page/1/sid/78/pid/0.html"
-    },
-    {
-      "id": "23521",
-      "slug": "ke-li-huo-xing-tan-huan-bao-ju-y-29500-00-yuan-jie",
-      "sku": "SAWEI-23521",
-      "title": {
-        "fr": "Équipement pulvérisateur - 颗粒活性碳环保柜",
-        "en": "Spray Equipment - 颗粒活性碳环保柜",
-        "cn": "颗粒活性碳环保柜"
-      },
-      "description": {
-        "fr": "Équipement automobile professionnel: Équipement pulvérisateur - 颗粒活性碳环保柜",
-        "en": "Professional automotive equipment: Spray Equipment - 颗粒活性碳环保柜",
-        "cn": "专业汽车设备: 颗粒活性碳环保柜"
-      },
-      "category": {
-        "slug": "Equipement_pulverisateur",
-        "name": {
-          "fr": "Équipement pulvérisateur",
-          "en": "Spray Equipment",
-          "cn": "喷涂设备"
-        }
-      },
-      "pricing": {
-        "original": {
-          "cny": 29500
-        },
-        "computed": {
-          "eur": 4218.5,
-          "cny": 29500,
-          "xaf": 2767155
-        }
-      },
-      "images": [
-        {
-          "url": "http://img.wykji.cn/78/2023-04/6441fdc21580f.jpg",
-          "alt": "Product image"
-        }
-      ],
-      "stock": 999,
       "sourceUrl": "https://m.wykji.cn/Item/detail/id/23521/page/1/sid/78/pid/0.html"
     },
     {
@@ -2904,63 +1760,6 @@
         }
       ],
       "stock": 0,
-      "sourceUrl": "https://m.wykji.cn/Item/detail/id/78957/page/1/sid/78/pid/0.html"
-    },
-    {
-      "id": "78957",
-      "slug": "ke-ran-qi-ti-bao-jing-qi-y-1000-00-yuan-jie-y-1000",
-      "sku": "SAWEI-78957",
-      "title": {
-        "fr": "Équipement pulvérisateur - 可燃气体报警器",
-        "en": "Spray Equipment - 可燃气体报警器",
-        "cn": "可燃气体报警器"
-      },
-      "description": {
-        "fr": "Équipement automobile professionnel: Équipement pulvérisateur - 可燃气体报警器",
-        "en": "Professional automotive equipment: Spray Equipment - 可燃气体报警器",
-        "cn": "专业汽车设备: 可燃气体报警器"
-      },
-      "category": {
-        "slug": "Equipement_pulverisateur",
-        "name": {
-          "fr": "Équipement pulvérisateur",
-          "en": "Spray Equipment",
-          "cn": "喷涂设备"
-        }
-      },
-      "pricing": {
-        "original": {
-          "cny": 1000
-        },
-        "computed": {
-          "eur": 143,
-          "cny": 1000,
-          "xaf": 93802
-        }
-      },
-      "images": [
-        {
-          "url": "https://img.wykji.cn/78/2024-07/66a9c6bebd4a1.jpg",
-          "alt": "Product image"
-        },
-        {
-          "url": "https://img.wykji.cn/78/2024-07/66a9c6bdbb4d3.jpg",
-          "alt": "Product image"
-        },
-        {
-          "url": "https://img.wykji.cn/78/2024-07/66a9c6bcf0393.jpg",
-          "alt": "Product image"
-        },
-        {
-          "url": "https://img.wykji.cn/78/2024-07/66a9c6bc949c9.jpg",
-          "alt": "Product image"
-        },
-        {
-          "url": "https://img.wykji.cn/78/2024-07/66a9c6bc76bda.jpg",
-          "alt": "Product image"
-        }
-      ],
-      "stock": 999,
       "sourceUrl": "https://m.wykji.cn/Item/detail/id/78957/page/1/sid/78/pid/0.html"
     },
     {
@@ -3054,47 +1853,6 @@
       "sourceUrl": "https://m.wykji.cn/Item/detail/id/23256/page/1/sid/78/pid/0.html"
     },
     {
-      "id": "23256",
-      "slug": "zhong-tu-pen-qi-fang-y-29000-00-yuan-jie-y-29000-0",
-      "sku": "SAWEI-23256",
-      "title": {
-        "fr": "Équipement pulvérisateur - 中涂喷漆房",
-        "en": "Spray Equipment - 中涂喷漆房",
-        "cn": "中涂喷漆房"
-      },
-      "description": {
-        "fr": "Équipement automobile professionnel: Équipement pulvérisateur - 中涂喷漆房",
-        "en": "Professional automotive equipment: Spray Equipment - 中涂喷漆房",
-        "cn": "专业汽车设备: 中涂喷漆房"
-      },
-      "category": {
-        "slug": "Equipement_pulverisateur",
-        "name": {
-          "fr": "Équipement pulvérisateur",
-          "en": "Spray Equipment",
-          "cn": "喷涂设备"
-        }
-      },
-      "pricing": {
-        "original": {
-          "cny": 29000
-        },
-        "computed": {
-          "eur": 4147,
-          "cny": 29000,
-          "xaf": 2720254
-        }
-      },
-      "images": [
-        {
-          "url": "http://img.wykji.cn/78/2021-12/61c7eaecef06d.jpg",
-          "alt": "Product image"
-        }
-      ],
-      "stock": 999,
-      "sourceUrl": "https://m.wykji.cn/Item/detail/id/23256/page/1/sid/78/pid/0.html"
-    },
-    {
       "id": "23810",
       "slug": "chou-jie-you-ji-6197",
       "sku": "SAWEI-23810",
@@ -3137,47 +1895,6 @@
         }
       ],
       "stock": 0,
-      "sourceUrl": "https://m.wykji.cn/Item/detail/id/23810/page/1/sid/78/pid/0.html"
-    },
-    {
-      "id": "23810",
-      "slug": "chou-jie-you-ji-6197-y-760-00-yuan-jie-y-760-00-ku",
-      "sku": "SAWEI-23810",
-      "title": {
-        "fr": "Matériel vidange - 抽接油机6197",
-        "en": "Oil Change Equipment - 抽接油机6197",
-        "cn": "抽接油机6197"
-      },
-      "description": {
-        "fr": "Équipement automobile professionnel: Matériel vidange - 抽接油机6197",
-        "en": "Professional automotive equipment: Oil Change Equipment - 抽接油机6197",
-        "cn": "专业汽车设备: 抽接油机6197"
-      },
-      "category": {
-        "slug": "Materiel_changement_huile",
-        "name": {
-          "fr": "Matériel vidange",
-          "en": "Oil Change Equipment",
-          "cn": "换油设备"
-        }
-      },
-      "pricing": {
-        "original": {
-          "cny": 760
-        },
-        "computed": {
-          "eur": 108.68,
-          "cny": 760,
-          "xaf": 71289
-        }
-      },
-      "images": [
-        {
-          "url": "http://img.wykji.cn/78/2022-12/63a27c8559b31.jpg",
-          "alt": "Product image"
-        }
-      ],
-      "stock": 999,
       "sourceUrl": "https://m.wykji.cn/Item/detail/id/23810/page/1/sid/78/pid/0.html"
     },
     {
@@ -3226,47 +1943,6 @@
       "sourceUrl": "https://m.wykji.cn/Item/detail/id/23433/page/1/sid/78/pid/0.html"
     },
     {
-      "id": "23433",
-      "slug": "hts518he-tao-sha-ji-tan-qing-xi-ji-y-1580-00-yuan-",
-      "sku": "SAWEI-23433",
-      "title": {
-        "fr": "Matériel vidange - HTS518核桃砂积碳清洗机",
-        "en": "Oil Change Equipment - HTS518核桃砂积碳清洗机",
-        "cn": "HTS518核桃砂积碳清洗机"
-      },
-      "description": {
-        "fr": "Équipement automobile professionnel: Matériel vidange - HTS518核桃砂积碳清洗机",
-        "en": "Professional automotive equipment: Oil Change Equipment - HTS518核桃砂积碳清洗机",
-        "cn": "专业汽车设备: HTS518核桃砂积碳清洗机"
-      },
-      "category": {
-        "slug": "Materiel_changement_huile",
-        "name": {
-          "fr": "Matériel vidange",
-          "en": "Oil Change Equipment",
-          "cn": "换油设备"
-        }
-      },
-      "pricing": {
-        "original": {
-          "cny": 1580
-        },
-        "computed": {
-          "eur": 225.94,
-          "cny": 1580,
-          "xaf": 148207
-        }
-      },
-      "images": [
-        {
-          "url": "http://img.wykji.cn/78/2022-07/62d8dda0e5d18.jpg",
-          "alt": "Product image"
-        }
-      ],
-      "stock": 999,
-      "sourceUrl": "https://m.wykji.cn/Item/detail/id/23433/page/1/sid/78/pid/0.html"
-    },
-    {
       "id": "23435",
       "slug": "hts678he-tao-sha-ji-tan-qing-xi-ji",
       "sku": "SAWEI-23435",
@@ -3309,47 +1985,6 @@
         }
       ],
       "stock": 0,
-      "sourceUrl": "https://m.wykji.cn/Item/detail/id/23435/page/1/sid/78/pid/0.html"
-    },
-    {
-      "id": "23435",
-      "slug": "hts678he-tao-sha-ji-tan-qing-xi-ji-y-2800-00-yuan-",
-      "sku": "SAWEI-23435",
-      "title": {
-        "fr": "Matériel vidange - HTS678核桃砂积碳清洗机",
-        "en": "Oil Change Equipment - HTS678核桃砂积碳清洗机",
-        "cn": "HTS678核桃砂积碳清洗机"
-      },
-      "description": {
-        "fr": "Équipement automobile professionnel: Matériel vidange - HTS678核桃砂积碳清洗机",
-        "en": "Professional automotive equipment: Oil Change Equipment - HTS678核桃砂积碳清洗机",
-        "cn": "专业汽车设备: HTS678核桃砂积碳清洗机"
-      },
-      "category": {
-        "slug": "Materiel_changement_huile",
-        "name": {
-          "fr": "Matériel vidange",
-          "en": "Oil Change Equipment",
-          "cn": "换油设备"
-        }
-      },
-      "pricing": {
-        "original": {
-          "cny": 2800
-        },
-        "computed": {
-          "eur": 400.4,
-          "cny": 2800,
-          "xaf": 262645
-        }
-      },
-      "images": [
-        {
-          "url": "http://img.wykji.cn/78/2022-07/62d8dea970248.jpg",
-          "alt": "Product image"
-        }
-      ],
-      "stock": 999,
       "sourceUrl": "https://m.wykji.cn/Item/detail/id/23435/page/1/sid/78/pid/0.html"
     },
     {
@@ -3398,47 +2033,6 @@
       "sourceUrl": "https://m.wykji.cn/Item/detail/id/23429/page/1/sid/78/pid/0.html"
     },
     {
-      "id": "23429",
-      "slug": "hts708qi-che-gan-bing-qing-xi-ji-y-5800-00-yuan-ji",
-      "sku": "SAWEI-23429",
-      "title": {
-        "fr": "Matériel vidange - HTS708汽车干冰清洗机",
-        "en": "Oil Change Equipment - HTS708汽车干冰清洗机",
-        "cn": "HTS708汽车干冰清洗机"
-      },
-      "description": {
-        "fr": "Équipement automobile professionnel: Matériel vidange - HTS708汽车干冰清洗机",
-        "en": "Professional automotive equipment: Oil Change Equipment - HTS708汽车干冰清洗机",
-        "cn": "专业汽车设备: HTS708汽车干冰清洗机"
-      },
-      "category": {
-        "slug": "Materiel_changement_huile",
-        "name": {
-          "fr": "Matériel vidange",
-          "en": "Oil Change Equipment",
-          "cn": "换油设备"
-        }
-      },
-      "pricing": {
-        "original": {
-          "cny": 5800
-        },
-        "computed": {
-          "eur": 829.4,
-          "cny": 5800,
-          "xaf": 544051
-        }
-      },
-      "images": [
-        {
-          "url": "http://img.wykji.cn/78/2022-07/62d8dabbc7c26.jpg",
-          "alt": "Product image"
-        }
-      ],
-      "stock": 999,
-      "sourceUrl": "https://m.wykji.cn/Item/detail/id/23429/page/1/sid/78/pid/0.html"
-    },
-    {
       "id": "8929",
       "slug": "hui-feng-chou-jie-you-ji-hc-2097",
       "sku": "SAWEI-8929",
@@ -3477,47 +2071,6 @@
         }
       ],
       "stock": 0,
-      "sourceUrl": "https://m.wykji.cn/Item/detail/id/8929/page/1/sid/78/pid/0.html"
-    },
-    {
-      "id": "8929",
-      "slug": "hui-feng-chou-jie-you-ji-hc-2097-y-950-00-yuan-jie",
-      "sku": "SAWEI-8929",
-      "title": {
-        "fr": "Matériel vidange - 汇峰抽接油机 HC-2097",
-        "en": "Oil Change Equipment - 汇峰抽接油机 HC-2097",
-        "cn": "汇峰抽接油机 HC-2097"
-      },
-      "description": {
-        "fr": "Équipement automobile professionnel: Matériel vidange - 汇峰抽接油机 HC-2097",
-        "en": "Professional automotive equipment: Oil Change Equipment - 汇峰抽接油机 HC-2097",
-        "cn": "专业汽车设备: 汇峰抽接油机 HC-2097"
-      },
-      "category": {
-        "slug": "Materiel_changement_huile",
-        "name": {
-          "fr": "Matériel vidange",
-          "en": "Oil Change Equipment",
-          "cn": "换油设备"
-        }
-      },
-      "pricing": {
-        "original": {
-          "cny": 950
-        },
-        "computed": {
-          "eur": 135.85,
-          "cny": 950,
-          "xaf": 89112
-        }
-      },
-      "images": [
-        {
-          "url": "http://img.wykji.cn/78/2020-04/5e8ae4dd43e9b.png",
-          "alt": "Product image"
-        }
-      ],
-      "stock": 997,
       "sourceUrl": "https://m.wykji.cn/Item/detail/id/8929/page/1/sid/78/pid/0.html"
     },
     {
@@ -3566,47 +2119,6 @@
       "sourceUrl": "https://m.wykji.cn/Item/detail/id/14427/page/1/sid/78/pid/0.html"
     },
     {
-      "id": "14427",
-      "slug": "jie-you-pen-y-65-00-yuan-jie-y-65-00-ku-cun-2996ji",
-      "sku": "SAWEI-14427",
-      "title": {
-        "fr": "Matériel vidange - 接油盆",
-        "en": "Oil Change Equipment - 接油盆",
-        "cn": "接油盆"
-      },
-      "description": {
-        "fr": "Équipement automobile professionnel: Matériel vidange - 接油盆",
-        "en": "Professional automotive equipment: Oil Change Equipment - 接油盆",
-        "cn": "专业汽车设备: 接油盆"
-      },
-      "category": {
-        "slug": "Materiel_changement_huile",
-        "name": {
-          "fr": "Matériel vidange",
-          "en": "Oil Change Equipment",
-          "cn": "换油设备"
-        }
-      },
-      "pricing": {
-        "original": {
-          "cny": 65
-        },
-        "computed": {
-          "eur": 9.3,
-          "cny": 65,
-          "xaf": 6100
-        }
-      },
-      "images": [
-        {
-          "url": "http://img.wykji.cn/78/2019-12/5e094d356c57e.jpg",
-          "alt": "Product image"
-        }
-      ],
-      "stock": 2996,
-      "sourceUrl": "https://m.wykji.cn/Item/detail/id/14427/page/1/sid/78/pid/0.html"
-    },
-    {
       "id": "14476",
       "slug": "ling-jian-qing-xi-ji-gp-710",
       "sku": "SAWEI-14476",
@@ -3649,47 +2161,6 @@
         }
       ],
       "stock": 0,
-      "sourceUrl": "https://m.wykji.cn/Item/detail/id/14476/page/1/sid/78/pid/0.html"
-    },
-    {
-      "id": "14476",
-      "slug": "ling-jian-qing-xi-ji-gp-710-y-3200-00-yuan-jie-y-3",
-      "sku": "SAWEI-14476",
-      "title": {
-        "fr": "Matériel vidange - 零件清洗机GP-710",
-        "en": "Oil Change Equipment - 零件清洗机GP-710",
-        "cn": "零件清洗机GP-710"
-      },
-      "description": {
-        "fr": "Équipement automobile professionnel: Matériel vidange - 零件清洗机GP-710",
-        "en": "Professional automotive equipment: Oil Change Equipment - 零件清洗机GP-710",
-        "cn": "专业汽车设备: 零件清洗机GP-710"
-      },
-      "category": {
-        "slug": "Materiel_changement_huile",
-        "name": {
-          "fr": "Matériel vidange",
-          "en": "Oil Change Equipment",
-          "cn": "换油设备"
-        }
-      },
-      "pricing": {
-        "original": {
-          "cny": 3200
-        },
-        "computed": {
-          "eur": 457.6,
-          "cny": 3200,
-          "xaf": 300166
-        }
-      },
-      "images": [
-        {
-          "url": "http://img.wykji.cn/78/2019-12/5e0ad07ff3c63.jpg",
-          "alt": "Product image"
-        }
-      ],
-      "stock": 1000,
       "sourceUrl": "https://m.wykji.cn/Item/detail/id/14476/page/1/sid/78/pid/0.html"
     },
     {
@@ -3738,47 +2209,6 @@
       "sourceUrl": "https://m.wykji.cn/Item/detail/id/64857/page/1/sid/78/pid/0.html"
     },
     {
-      "id": "64857",
-      "slug": "lu-bo-100lgai-liang-ban-jie-you-ji-y-2980-00-yuan-",
-      "sku": "SAWEI-64857",
-      "title": {
-        "fr": "Matériel vidange - 路博100L改良版接油机",
-        "en": "Oil Change Equipment - 路博100L改良版接油机",
-        "cn": "路博100L改良版接油机"
-      },
-      "description": {
-        "fr": "Équipement automobile professionnel: Matériel vidange - 路博100L改良版接油机",
-        "en": "Professional automotive equipment: Oil Change Equipment - 路博100L改良版接油机",
-        "cn": "专业汽车设备: 路博100L改良版接油机"
-      },
-      "category": {
-        "slug": "Materiel_changement_huile",
-        "name": {
-          "fr": "Matériel vidange",
-          "en": "Oil Change Equipment",
-          "cn": "换油设备"
-        }
-      },
-      "pricing": {
-        "original": {
-          "cny": 2980
-        },
-        "computed": {
-          "eur": 426.14,
-          "cny": 2980,
-          "xaf": 279530
-        }
-      },
-      "images": [
-        {
-          "url": "https://img.wykji.cn/78/2023-11/654dd91660a01.jpg",
-          "alt": "Product image"
-        }
-      ],
-      "stock": 9999,
-      "sourceUrl": "https://m.wykji.cn/Item/detail/id/64857/page/1/sid/78/pid/0.html"
-    },
-    {
       "id": "11900",
       "slug": "lu-bo-chou-jie-you-ji-65l",
       "sku": "SAWEI-11900",
@@ -3821,47 +2251,6 @@
         }
       ],
       "stock": 0,
-      "sourceUrl": "https://m.wykji.cn/Item/detail/id/11900/page/1/sid/78/pid/0.html"
-    },
-    {
-      "id": "11900",
-      "slug": "lu-bo-chou-jie-you-ji-65l-y-2180-00-yuan-jie-y-218",
-      "sku": "SAWEI-11900",
-      "title": {
-        "fr": "Matériel vidange - 路博抽接油机65L",
-        "en": "Oil Change Equipment - 路博抽接油机65L",
-        "cn": "路博抽接油机65L"
-      },
-      "description": {
-        "fr": "Équipement automobile professionnel: Matériel vidange - 路博抽接油机65L",
-        "en": "Professional automotive equipment: Oil Change Equipment - 路博抽接油机65L",
-        "cn": "专业汽车设备: 路博抽接油机65L"
-      },
-      "category": {
-        "slug": "Materiel_changement_huile",
-        "name": {
-          "fr": "Matériel vidange",
-          "en": "Oil Change Equipment",
-          "cn": "换油设备"
-        }
-      },
-      "pricing": {
-        "original": {
-          "cny": 2180
-        },
-        "computed": {
-          "eur": 311.74,
-          "cny": 2180,
-          "xaf": 204488
-        }
-      },
-      "images": [
-        {
-          "url": "http://img.wykji.cn/78/2022-11/6375e69f48bbc.JPG",
-          "alt": "Product image"
-        }
-      ],
-      "stock": 99999,
       "sourceUrl": "https://m.wykji.cn/Item/detail/id/11900/page/1/sid/78/pid/0.html"
     },
     {
@@ -3930,67 +2319,6 @@
       "sourceUrl": "https://m.wykji.cn/Item/detail/id/79411/page/1/sid/78/pid/0.html"
     },
     {
-      "id": "79411",
-      "slug": "lu-bo-jie-you-ji-80l-y-1580-00-yuan-jie-y-1580-00-",
-      "sku": "SAWEI-79411",
-      "title": {
-        "fr": "Matériel vidange - 路博接油机80L",
-        "en": "Oil Change Equipment - 路博接油机80L",
-        "cn": "路博接油机80L"
-      },
-      "description": {
-        "fr": "Équipement automobile professionnel: Matériel vidange - 路博接油机80L",
-        "en": "Professional automotive equipment: Oil Change Equipment - 路博接油机80L",
-        "cn": "专业汽车设备: 路博接油机80L"
-      },
-      "category": {
-        "slug": "Materiel_changement_huile",
-        "name": {
-          "fr": "Matériel vidange",
-          "en": "Oil Change Equipment",
-          "cn": "换油设备"
-        }
-      },
-      "pricing": {
-        "original": {
-          "cny": 1580
-        },
-        "computed": {
-          "eur": 225.94,
-          "cny": 1580,
-          "xaf": 148207
-        }
-      },
-      "images": [
-        {
-          "url": "https://img.wykji.cn/78/2025-05/6832844e8fb68.jpg",
-          "alt": "Product image"
-        },
-        {
-          "url": "https://img.wykji.cn/78/2025-05/6832845081b80.jpg",
-          "alt": "Product image"
-        },
-        {
-          "url": "https://img.wykji.cn/78/2025-05/6832845036e71.jpg",
-          "alt": "Product image"
-        },
-        {
-          "url": "https://img.wykji.cn/78/2025-05/6832844f94c21.jpg",
-          "alt": "Product image"
-        },
-        {
-          "url": "https://img.wykji.cn/78/2025-05/6832844fe0dae.jpg",
-          "alt": "Product image"
-        },
-        {
-          "url": "https://img.wykji.cn/78/2025-05/6832844f5185f.jpg",
-          "alt": "Product image"
-        }
-      ],
-      "stock": 999,
-      "sourceUrl": "https://m.wykji.cn/Item/detail/id/79411/page/1/sid/78/pid/0.html"
-    },
-    {
       "id": "23837",
       "slug": "bi-gua-qing-xi-ji-bg330e",
       "sku": "SAWEI-23837",
@@ -4029,47 +2357,6 @@
         }
       ],
       "stock": 0,
-      "sourceUrl": "https://m.wykji.cn/Item/detail/id/23837/page/1/sid/78/pid/0.html"
-    },
-    {
-      "id": "23837",
-      "slug": "bi-gua-qing-xi-ji-bg330e-y-3200-00-yuan-jie-y-3200",
-      "sku": "SAWEI-23837",
-      "title": {
-        "fr": "Matériel de lavage - 壁挂清洗机BG330E",
-        "en": "Washing Equipment - 壁挂清洗机BG330E",
-        "cn": "壁挂清洗机BG330E"
-      },
-      "description": {
-        "fr": "Équipement automobile professionnel: Matériel de lavage - 壁挂清洗机BG330E",
-        "en": "Professional automotive equipment: Washing Equipment - 壁挂清洗机BG330E",
-        "cn": "专业汽车设备: 壁挂清洗机BG330E"
-      },
-      "category": {
-        "slug": "Materiel_de_lavage",
-        "name": {
-          "fr": "Matériel de lavage",
-          "en": "Washing Equipment",
-          "cn": "清洗设备"
-        }
-      },
-      "pricing": {
-        "original": {
-          "cny": 3200
-        },
-        "computed": {
-          "eur": 457.6,
-          "cny": 3200,
-          "xaf": 300166
-        }
-      },
-      "images": [
-        {
-          "url": "http://img.wykji.cn/78/2022-12/63a54797d8e09.jpg",
-          "alt": "Product image"
-        }
-      ],
-      "stock": 999,
       "sourceUrl": "https://m.wykji.cn/Item/detail/id/23837/page/1/sid/78/pid/0.html"
     },
     {
@@ -4134,63 +2421,6 @@
       "sourceUrl": "https://m.wykji.cn/Item/detail/id/78965/page/1/sid/78/pid/0.html"
     },
     {
-      "id": "78965",
-      "slug": "bu-xiu-gang-xiao-yin-jian-zhen-qi-y-380-00-yuan-ji",
-      "sku": "SAWEI-78965",
-      "title": {
-        "fr": "Matériel de lavage - 不锈钢消音减震器",
-        "en": "Washing Equipment - 不锈钢消音减震器",
-        "cn": "不锈钢消音减震器"
-      },
-      "description": {
-        "fr": "Équipement automobile professionnel: Matériel de lavage - 不锈钢消音减震器",
-        "en": "Professional automotive equipment: Washing Equipment - 不锈钢消音减震器",
-        "cn": "专业汽车设备: 不锈钢消音减震器"
-      },
-      "category": {
-        "slug": "Materiel_de_lavage",
-        "name": {
-          "fr": "Matériel de lavage",
-          "en": "Washing Equipment",
-          "cn": "清洗设备"
-        }
-      },
-      "pricing": {
-        "original": {
-          "cny": 380
-        },
-        "computed": {
-          "eur": 54.34,
-          "cny": 380,
-          "xaf": 35645
-        }
-      },
-      "images": [
-        {
-          "url": "https://img.wykji.cn/78/2024-08/66aaf484133b0.jpg",
-          "alt": "Product image"
-        },
-        {
-          "url": "https://img.wykji.cn/78/2024-08/66aaf48373d32.jpg",
-          "alt": "Product image"
-        },
-        {
-          "url": "https://img.wykji.cn/78/2024-08/66aaf4856681c.jpg",
-          "alt": "Product image"
-        },
-        {
-          "url": "https://img.wykji.cn/78/2024-08/66aaf484c44ad.jpg",
-          "alt": "Product image"
-        },
-        {
-          "url": "https://img.wykji.cn/78/2024-08/66aaf48608f64.jpg",
-          "alt": "Product image"
-        }
-      ],
-      "stock": 999,
-      "sourceUrl": "https://m.wykji.cn/Item/detail/id/78965/page/1/sid/78/pid/0.html"
-    },
-    {
       "id": "79706",
       "slug": "chao-ji-xi-che-ji-cj312-380v",
       "sku": "SAWEI-79706",
@@ -4233,47 +2463,6 @@
         }
       ],
       "stock": 0,
-      "sourceUrl": "https://m.wykji.cn/Item/detail/id/79706/page/1/sid/78/pid/0.html"
-    },
-    {
-      "id": "79706",
-      "slug": "chao-ji-xi-che-ji-cj312-380v-y-2600-00-yuan-jie-y-",
-      "sku": "SAWEI-79706",
-      "title": {
-        "fr": "Matériel de lavage - 超洁洗车机CJ312 380V",
-        "en": "Washing Equipment - 超洁洗车机CJ312 380V",
-        "cn": "超洁洗车机CJ312 380V"
-      },
-      "description": {
-        "fr": "Équipement automobile professionnel: Matériel de lavage - 超洁洗车机CJ312 380V",
-        "en": "Professional automotive equipment: Washing Equipment - 超洁洗车机CJ312 380V",
-        "cn": "专业汽车设备: 超洁洗车机CJ312 380V"
-      },
-      "category": {
-        "slug": "Materiel_de_lavage",
-        "name": {
-          "fr": "Matériel de lavage",
-          "en": "Washing Equipment",
-          "cn": "清洗设备"
-        }
-      },
-      "pricing": {
-        "original": {
-          "cny": 2600
-        },
-        "computed": {
-          "eur": 371.8,
-          "cny": 2600,
-          "xaf": 243885
-        }
-      },
-      "images": [
-        {
-          "url": "https://img.wykji.cn/78/2025-10/690462d0e57cd.jpg",
-          "alt": "Product image"
-        }
-      ],
-      "stock": 999,
       "sourceUrl": "https://m.wykji.cn/Item/detail/id/79706/page/1/sid/78/pid/0.html"
     },
     {
@@ -4322,47 +2511,6 @@
       "sourceUrl": "https://m.wykji.cn/Item/detail/id/79703/page/1/sid/78/pid/0.html"
     },
     {
-      "id": "79703",
-      "slug": "chao-ji-xi-che-ji-cjcc2-2g-y-1850-00-yuan-jie-y-18",
-      "sku": "SAWEI-79703",
-      "title": {
-        "fr": "Matériel de lavage - 超洁洗车机 CJCC2.2G",
-        "en": "Washing Equipment - 超洁洗车机 CJCC2.2G",
-        "cn": "超洁洗车机 CJCC2.2G"
-      },
-      "description": {
-        "fr": "Équipement automobile professionnel: Matériel de lavage - 超洁洗车机 CJCC2.2G",
-        "en": "Professional automotive equipment: Washing Equipment - 超洁洗车机 CJCC2.2G",
-        "cn": "专业汽车设备: 超洁洗车机 CJCC2.2G"
-      },
-      "category": {
-        "slug": "Materiel_de_lavage",
-        "name": {
-          "fr": "Matériel de lavage",
-          "en": "Washing Equipment",
-          "cn": "清洗设备"
-        }
-      },
-      "pricing": {
-        "original": {
-          "cny": 1850
-        },
-        "computed": {
-          "eur": 264.55,
-          "cny": 1850,
-          "xaf": 173533
-        }
-      },
-      "images": [
-        {
-          "url": "https://img.wykji.cn/78/2025-10/6904608beac93.jpg",
-          "alt": "Product image"
-        }
-      ],
-      "stock": 999,
-      "sourceUrl": "https://m.wykji.cn/Item/detail/id/79703/page/1/sid/78/pid/0.html"
-    },
-    {
       "id": "79708",
       "slug": "chao-ji-xi-che-ji-cjp05",
       "sku": "SAWEI-79708",
@@ -4405,47 +2553,6 @@
         }
       ],
       "stock": 0,
-      "sourceUrl": "https://m.wykji.cn/Item/detail/id/79708/page/1/sid/78/pid/0.html"
-    },
-    {
-      "id": "79708",
-      "slug": "chao-ji-xi-che-ji-cjp05-y-2600-00-yuan-jie-y-2600-",
-      "sku": "SAWEI-79708",
-      "title": {
-        "fr": "Matériel de lavage - 超洁洗车机CJP05",
-        "en": "Washing Equipment - 超洁洗车机CJP05",
-        "cn": "超洁洗车机CJP05"
-      },
-      "description": {
-        "fr": "Équipement automobile professionnel: Matériel de lavage - 超洁洗车机CJP05",
-        "en": "Professional automotive equipment: Washing Equipment - 超洁洗车机CJP05",
-        "cn": "专业汽车设备: 超洁洗车机CJP05"
-      },
-      "category": {
-        "slug": "Materiel_de_lavage",
-        "name": {
-          "fr": "Matériel de lavage",
-          "en": "Washing Equipment",
-          "cn": "清洗设备"
-        }
-      },
-      "pricing": {
-        "original": {
-          "cny": 2600
-        },
-        "computed": {
-          "eur": 371.8,
-          "cny": 2600,
-          "xaf": 243885
-        }
-      },
-      "images": [
-        {
-          "url": "https://img.wykji.cn/78/2025-10/690462d0e57cd.jpg",
-          "alt": "Product image"
-        }
-      ],
-      "stock": 999,
       "sourceUrl": "https://m.wykji.cn/Item/detail/id/79708/page/1/sid/78/pid/0.html"
     },
     {
@@ -4498,51 +2605,6 @@
       "sourceUrl": "https://m.wykji.cn/Item/detail/id/23569/page/1/sid/78/pid/0.html"
     },
     {
-      "id": "23569",
-      "slug": "lin-du-long-men-xi-che-ji-y-139000-00-yuan-jie-y-1",
-      "sku": "SAWEI-23569",
-      "title": {
-        "fr": "Matériel de lavage - 淋镀龙门洗车机",
-        "en": "Washing Equipment - 淋镀龙门洗车机",
-        "cn": "淋镀龙门洗车机"
-      },
-      "description": {
-        "fr": "Équipement automobile professionnel: Matériel de lavage - 淋镀龙门洗车机",
-        "en": "Professional automotive equipment: Washing Equipment - 淋镀龙门洗车机",
-        "cn": "专业汽车设备: 淋镀龙门洗车机"
-      },
-      "category": {
-        "slug": "Materiel_de_lavage",
-        "name": {
-          "fr": "Matériel de lavage",
-          "en": "Washing Equipment",
-          "cn": "清洗设备"
-        }
-      },
-      "pricing": {
-        "original": {
-          "cny": 139000
-        },
-        "computed": {
-          "eur": 19877,
-          "cny": 139000,
-          "xaf": 13038457
-        }
-      },
-      "images": [
-        {
-          "url": "http://img.wykji.cn/78/2022-10/634103b6d7197.jpg",
-          "alt": "Product image"
-        },
-        {
-          "url": "http://img.wykji.cn/78/2022-10/634103b7a6dee.jpg",
-          "alt": "Product image"
-        }
-      ],
-      "stock": 1998,
-      "sourceUrl": "https://m.wykji.cn/Item/detail/id/23569/page/1/sid/78/pid/0.html"
-    },
-    {
       "id": "24296",
       "slug": "man-fu-li-chao-ji-xi-che-zhan",
       "sku": "SAWEI-24296",
@@ -4592,51 +2654,6 @@
       "sourceUrl": "https://m.wykji.cn/Item/detail/id/24296/page/1/sid/78/pid/0.html"
     },
     {
-      "id": "24296",
-      "slug": "man-fu-li-chao-ji-xi-che-zhan-y-54800-00-yuan-jie-",
-      "sku": "SAWEI-24296",
-      "title": {
-        "fr": "Matériel de lavage - 曼芙丽超级洗车站",
-        "en": "Washing Equipment - 曼芙丽超级洗车站",
-        "cn": "曼芙丽超级洗车站"
-      },
-      "description": {
-        "fr": "Équipement automobile professionnel: Matériel de lavage - 曼芙丽超级洗车站",
-        "en": "Professional automotive equipment: Washing Equipment - 曼芙丽超级洗车站",
-        "cn": "专业汽车设备: 曼芙丽超级洗车站"
-      },
-      "category": {
-        "slug": "Materiel_de_lavage",
-        "name": {
-          "fr": "Matériel de lavage",
-          "en": "Washing Equipment",
-          "cn": "清洗设备"
-        }
-      },
-      "pricing": {
-        "original": {
-          "cny": 54800
-        },
-        "computed": {
-          "eur": 7836.4,
-          "cny": 54800,
-          "xaf": 5140341
-        }
-      },
-      "images": [
-        {
-          "url": "http://img.wykji.cn/78/2023-04/644201b280203.jpg",
-          "alt": "Product image"
-        },
-        {
-          "url": "http://img.wykji.cn/78/2023-04/644201b23149d.jpg",
-          "alt": "Product image"
-        }
-      ],
-      "stock": 999,
-      "sourceUrl": "https://m.wykji.cn/Item/detail/id/24296/page/1/sid/78/pid/0.html"
-    },
-    {
       "id": "23835",
       "slug": "shou-tui-qing-xi-ji-cc330e",
       "sku": "SAWEI-23835",
@@ -4675,47 +2692,6 @@
         }
       ],
       "stock": 0,
-      "sourceUrl": "https://m.wykji.cn/Item/detail/id/23835/page/1/sid/78/pid/0.html"
-    },
-    {
-      "id": "23835",
-      "slug": "shou-tui-qing-xi-ji-cc330e-y-2800-00-yuan-jie-y-28",
-      "sku": "SAWEI-23835",
-      "title": {
-        "fr": "Matériel de lavage - 手推清洗机CC330E",
-        "en": "Washing Equipment - 手推清洗机CC330E",
-        "cn": "手推清洗机CC330E"
-      },
-      "description": {
-        "fr": "Équipement automobile professionnel: Matériel de lavage - 手推清洗机CC330E",
-        "en": "Professional automotive equipment: Washing Equipment - 手推清洗机CC330E",
-        "cn": "专业汽车设备: 手推清洗机CC330E"
-      },
-      "category": {
-        "slug": "Materiel_de_lavage",
-        "name": {
-          "fr": "Matériel de lavage",
-          "en": "Washing Equipment",
-          "cn": "清洗设备"
-        }
-      },
-      "pricing": {
-        "original": {
-          "cny": 2800
-        },
-        "computed": {
-          "eur": 400.4,
-          "cny": 2800,
-          "xaf": 262645
-        }
-      },
-      "images": [
-        {
-          "url": "http://img.wykji.cn/78/2022-12/63a546bfe7a85.jpg",
-          "alt": "Product image"
-        }
-      ],
-      "stock": 999,
       "sourceUrl": "https://m.wykji.cn/Item/detail/id/23835/page/1/sid/78/pid/0.html"
     },
     {
@@ -4764,47 +2740,6 @@
       "sourceUrl": "https://m.wykji.cn/Item/detail/id/23176/page/1/sid/78/pid/0.html"
     },
     {
-      "id": "23176",
-      "slug": "xi-che-wu-shui-jing-hua-xi-tong-y-9800-00-yuan-jie",
-      "sku": "SAWEI-23176",
-      "title": {
-        "fr": "Matériel de lavage - 洗车污水净化系统",
-        "en": "Washing Equipment - 洗车污水净化系统",
-        "cn": "洗车污水净化系统"
-      },
-      "description": {
-        "fr": "Équipement automobile professionnel: Matériel de lavage - 洗车污水净化系统",
-        "en": "Professional automotive equipment: Washing Equipment - 洗车污水净化系统",
-        "cn": "专业汽车设备: 洗车污水净化系统"
-      },
-      "category": {
-        "slug": "Materiel_de_lavage",
-        "name": {
-          "fr": "Matériel de lavage",
-          "en": "Washing Equipment",
-          "cn": "清洗设备"
-        }
-      },
-      "pricing": {
-        "original": {
-          "cny": 9800
-        },
-        "computed": {
-          "eur": 1401.4,
-          "cny": 9800,
-          "xaf": 919258
-        }
-      },
-      "images": [
-        {
-          "url": "http://img.wykji.cn/78/2021-12/61a70a79cc1cf.jpg",
-          "alt": "Product image"
-        }
-      ],
-      "stock": 9999,
-      "sourceUrl": "https://m.wykji.cn/Item/detail/id/23176/page/1/sid/78/pid/0.html"
-    },
-    {
       "id": "14317",
       "slug": "yin-er-ke-yi-ji-5qiang-qing-xi-ji",
       "sku": "SAWEI-14317",
@@ -4847,47 +2782,6 @@
         }
       ],
       "stock": 0,
-      "sourceUrl": "https://m.wykji.cn/Item/detail/id/14317/page/1/sid/78/pid/0.html"
-    },
-    {
-      "id": "14317",
-      "slug": "yin-er-ke-yi-ji-5qiang-qing-xi-ji-y-13800-00-yuan-",
-      "sku": "SAWEI-14317",
-      "title": {
-        "fr": "Matériel de lavage - 因而克一机5枪清洗机",
-        "en": "Washing Equipment - 因而克一机5枪清洗机",
-        "cn": "因而克一机5枪清洗机"
-      },
-      "description": {
-        "fr": "Équipement automobile professionnel: Matériel de lavage - 因而克一机5枪清洗机",
-        "en": "Professional automotive equipment: Washing Equipment - 因而克一机5枪清洗机",
-        "cn": "专业汽车设备: 因而克一机5枪清洗机"
-      },
-      "category": {
-        "slug": "Materiel_de_lavage",
-        "name": {
-          "fr": "Matériel de lavage",
-          "en": "Washing Equipment",
-          "cn": "清洗设备"
-        }
-      },
-      "pricing": {
-        "original": {
-          "cny": 13800
-        },
-        "computed": {
-          "eur": 1973.4,
-          "cny": 13800,
-          "xaf": 1294466
-        }
-      },
-      "images": [
-        {
-          "url": "http://img.wykji.cn/78/2019-12/5e031dfe5779f.jpg",
-          "alt": "Product image"
-        }
-      ],
-      "stock": 100,
       "sourceUrl": "https://m.wykji.cn/Item/detail/id/14317/page/1/sid/78/pid/0.html"
     },
     {
@@ -4936,47 +2830,6 @@
       "sourceUrl": "https://m.wykji.cn/Item/detail/id/23329/page/1/sid/78/pid/0.html"
     },
     {
-      "id": "23329",
-      "slug": "326fchai-tai-ji-y-5680-00-yuan-jie-y-5980-00-ku-cu",
-      "sku": "SAWEI-23329",
-      "title": {
-        "fr": "Matériel pneumatique - 326F拆胎机",
-        "en": "Tire Equipment - 326F拆胎机",
-        "cn": "326F拆胎机"
-      },
-      "description": {
-        "fr": "Équipement automobile professionnel: Matériel pneumatique - 326F拆胎机",
-        "en": "Professional automotive equipment: Tire Equipment - 326F拆胎机",
-        "cn": "专业汽车设备: 326F拆胎机"
-      },
-      "category": {
-        "slug": "Materiel_de_pneu",
-        "name": {
-          "fr": "Matériel pneumatique",
-          "en": "Tire Equipment",
-          "cn": "轮胎设备"
-        }
-      },
-      "pricing": {
-        "original": {
-          "cny": 5680
-        },
-        "computed": {
-          "eur": 812.24,
-          "cny": 5680,
-          "xaf": 532795
-        }
-      },
-      "images": [
-        {
-          "url": "http://img.wykji.cn/78/2022-03/6242afb3ec46f.jpg",
-          "alt": "Product image"
-        }
-      ],
-      "stock": 999,
-      "sourceUrl": "https://m.wykji.cn/Item/detail/id/23329/page/1/sid/78/pid/0.html"
-    },
-    {
       "id": "79012",
       "slug": "chai-tai-ji-u-625",
       "sku": "SAWEI-79012",
@@ -5019,47 +2872,6 @@
         }
       ],
       "stock": 0,
-      "sourceUrl": "https://m.wykji.cn/Item/detail/id/79012/page/1/sid/78/pid/0.html"
-    },
-    {
-      "id": "79012",
-      "slug": "chai-tai-ji-u-625-y-13900-00-yuan-jie-y-13900-00-k",
-      "sku": "SAWEI-79012",
-      "title": {
-        "fr": "Matériel pneumatique - 拆胎机U-625",
-        "en": "Tire Equipment - 拆胎机U-625",
-        "cn": "拆胎机U-625"
-      },
-      "description": {
-        "fr": "Équipement automobile professionnel: Matériel pneumatique - 拆胎机U-625",
-        "en": "Professional automotive equipment: Tire Equipment - 拆胎机U-625",
-        "cn": "专业汽车设备: 拆胎机U-625"
-      },
-      "category": {
-        "slug": "Materiel_de_pneu",
-        "name": {
-          "fr": "Matériel pneumatique",
-          "en": "Tire Equipment",
-          "cn": "轮胎设备"
-        }
-      },
-      "pricing": {
-        "original": {
-          "cny": 13900
-        },
-        "computed": {
-          "eur": 1987.7,
-          "cny": 13900,
-          "xaf": 1303846
-        }
-      },
-      "images": [
-        {
-          "url": "https://img.wykji.cn/78/2024-09/66e648c9ebf17.jpg",
-          "alt": "Product image"
-        }
-      ],
-      "stock": 999,
       "sourceUrl": "https://m.wykji.cn/Item/detail/id/79012/page/1/sid/78/pid/0.html"
     },
     {
@@ -5109,51 +2921,6 @@
         }
       ],
       "stock": 0,
-      "sourceUrl": "https://m.wykji.cn/Item/detail/id/8867/page/1/sid/78/pid/0.html"
-    },
-    {
-      "id": "8867",
-      "slug": "lun-tai-chai-zhuang-ji-u-2011-y-5200-00-yuan-jie-y",
-      "sku": "SAWEI-8867",
-      "title": {
-        "fr": "Matériel pneumatique - 轮胎拆装机U-2011",
-        "en": "Tire Equipment - 轮胎拆装机U-2011",
-        "cn": "轮胎拆装机U-2011"
-      },
-      "description": {
-        "fr": "Équipement automobile professionnel: Matériel pneumatique - 轮胎拆装机U-2011",
-        "en": "Professional automotive equipment: Tire Equipment - 轮胎拆装机U-2011",
-        "cn": "专业汽车设备: 轮胎拆装机U-2011"
-      },
-      "category": {
-        "slug": "Materiel_de_pneu",
-        "name": {
-          "fr": "Matériel pneumatique",
-          "en": "Tire Equipment",
-          "cn": "轮胎设备"
-        }
-      },
-      "pricing": {
-        "original": {
-          "cny": 5200
-        },
-        "computed": {
-          "eur": 743.6,
-          "cny": 5200,
-          "xaf": 487770
-        }
-      },
-      "images": [
-        {
-          "url": "http://img.wykji.cn/78/2021-03/604056852063f.jpg",
-          "alt": "Product image"
-        },
-        {
-          "url": "http://img.wykji.cn/78/2021-03/6040568c76c1b.jpg",
-          "alt": "Product image"
-        }
-      ],
-      "stock": 99999,
       "sourceUrl": "https://m.wykji.cn/Item/detail/id/8867/page/1/sid/78/pid/0.html"
     },
     {
@@ -5218,63 +2985,6 @@
       "sourceUrl": "https://m.wykji.cn/Item/detail/id/8869/page/1/sid/78/pid/0.html"
     },
     {
-      "id": "8869",
-      "slug": "lun-tai-chai-zhuang-ji-u-226-y-6900-00-yuan-jie-y-",
-      "sku": "SAWEI-8869",
-      "title": {
-        "fr": "Matériel pneumatique - 轮胎拆装机 U-226",
-        "en": "Tire Equipment - 轮胎拆装机 U-226",
-        "cn": "轮胎拆装机 U-226"
-      },
-      "description": {
-        "fr": "Équipement automobile professionnel: Matériel pneumatique - 轮胎拆装机 U-226",
-        "en": "Professional automotive equipment: Tire Equipment - 轮胎拆装机 U-226",
-        "cn": "专业汽车设备: 轮胎拆装机 U-226"
-      },
-      "category": {
-        "slug": "Materiel_de_pneu",
-        "name": {
-          "fr": "Matériel pneumatique",
-          "en": "Tire Equipment",
-          "cn": "轮胎设备"
-        }
-      },
-      "pricing": {
-        "original": {
-          "cny": 6900
-        },
-        "computed": {
-          "eur": 986.7,
-          "cny": 6900,
-          "xaf": 647233
-        }
-      },
-      "images": [
-        {
-          "url": "http://img.wykji.cn/78/2019-03/5c81dbb319576.png",
-          "alt": "Product image"
-        },
-        {
-          "url": "http://img.wykji.cn/78/2019-10/5d9800d04e08b.jpg",
-          "alt": "Product image"
-        },
-        {
-          "url": "http://img.wykji.cn/78/2019-10/5d9800d3c083d.jpg",
-          "alt": "Product image"
-        },
-        {
-          "url": "http://img.wykji.cn/78/2019-10/5d9800d4dece0.jpg",
-          "alt": "Product image"
-        },
-        {
-          "url": "http://img.wykji.cn/78/2019-10/5d9800d617ade.jpg",
-          "alt": "Product image"
-        }
-      ],
-      "stock": 99998,
-      "sourceUrl": "https://m.wykji.cn/Item/detail/id/8869/page/1/sid/78/pid/0.html"
-    },
-    {
       "id": "11762",
       "slug": "lun-tai-chai-zhuang-ji-u-256-pro",
       "sku": "SAWEI-11762",
@@ -5324,51 +3034,6 @@
       "sourceUrl": "https://m.wykji.cn/Item/detail/id/11762/page/1/sid/78/pid/0.html"
     },
     {
-      "id": "11762",
-      "slug": "lun-tai-chai-zhuang-ji-u-256-pro-y-9200-00-yuan-ji",
-      "sku": "SAWEI-11762",
-      "title": {
-        "fr": "Matériel pneumatique - 轮胎拆装机U-256 PRO",
-        "en": "Tire Equipment - 轮胎拆装机U-256 PRO",
-        "cn": "轮胎拆装机U-256 PRO"
-      },
-      "description": {
-        "fr": "Équipement automobile professionnel: Matériel pneumatique - 轮胎拆装机U-256 PRO",
-        "en": "Professional automotive equipment: Tire Equipment - 轮胎拆装机U-256 PRO",
-        "cn": "专业汽车设备: 轮胎拆装机U-256 PRO"
-      },
-      "category": {
-        "slug": "Materiel_de_pneu",
-        "name": {
-          "fr": "Matériel pneumatique",
-          "en": "Tire Equipment",
-          "cn": "轮胎设备"
-        }
-      },
-      "pricing": {
-        "original": {
-          "cny": 9200
-        },
-        "computed": {
-          "eur": 1315.6,
-          "cny": 9200,
-          "xaf": 862977
-        }
-      },
-      "images": [
-        {
-          "url": "http://img.wykji.cn/78/2022-11/6375e0e52b963.jpg",
-          "alt": "Product image"
-        },
-        {
-          "url": "http://img.wykji.cn/78/2021-03/6040568c76c1b.jpg",
-          "alt": "Product image"
-        }
-      ],
-      "stock": 99999,
-      "sourceUrl": "https://m.wykji.cn/Item/detail/id/11762/page/1/sid/78/pid/0.html"
-    },
-    {
       "id": "23789",
       "slug": "tai-mu-chai-tai-ji-tw5",
       "sku": "SAWEI-23789",
@@ -5411,47 +3076,6 @@
         }
       ],
       "stock": 0,
-      "sourceUrl": "https://m.wykji.cn/Item/detail/id/23789/page/1/sid/78/pid/0.html"
-    },
-    {
-      "id": "23789",
-      "slug": "tai-mu-chai-tai-ji-tw5-y-8800-00-yuan-jie-y-8800-0",
-      "sku": "SAWEI-23789",
-      "title": {
-        "fr": "Matériel pneumatique - 泰姆拆胎机TW5",
-        "en": "Tire Equipment - 泰姆拆胎机TW5",
-        "cn": "泰姆拆胎机TW5"
-      },
-      "description": {
-        "fr": "Équipement automobile professionnel: Matériel pneumatique - 泰姆拆胎机TW5",
-        "en": "Professional automotive equipment: Tire Equipment - 泰姆拆胎机TW5",
-        "cn": "专业汽车设备: 泰姆拆胎机TW5"
-      },
-      "category": {
-        "slug": "Materiel_de_pneu",
-        "name": {
-          "fr": "Matériel pneumatique",
-          "en": "Tire Equipment",
-          "cn": "轮胎设备"
-        }
-      },
-      "pricing": {
-        "original": {
-          "cny": 8800
-        },
-        "computed": {
-          "eur": 1258.4,
-          "cny": 8800,
-          "xaf": 825456
-        }
-      },
-      "images": [
-        {
-          "url": "http://img.wykji.cn/78/2022-12/63a104fec3d9d.jpg",
-          "alt": "Product image"
-        }
-      ],
-      "stock": 999,
       "sourceUrl": "https://m.wykji.cn/Item/detail/id/23789/page/1/sid/78/pid/0.html"
     },
     {
@@ -5504,51 +3128,6 @@
       "sourceUrl": "https://m.wykji.cn/Item/detail/id/24111/page/1/sid/78/pid/0.html"
     },
     {
-      "id": "24111",
-      "slug": "u-256tprochai-tai-ji-y-10500-00-yuan-jie-y-10500-0",
-      "sku": "SAWEI-24111",
-      "title": {
-        "fr": "Matériel pneumatique - U-256TPRO拆胎机",
-        "en": "Tire Equipment - U-256TPRO拆胎机",
-        "cn": "U-256TPRO拆胎机"
-      },
-      "description": {
-        "fr": "Équipement automobile professionnel: Matériel pneumatique - U-256TPRO拆胎机",
-        "en": "Professional automotive equipment: Tire Equipment - U-256TPRO拆胎机",
-        "cn": "专业汽车设备: U-256TPRO拆胎机"
-      },
-      "category": {
-        "slug": "Materiel_de_pneu",
-        "name": {
-          "fr": "Matériel pneumatique",
-          "en": "Tire Equipment",
-          "cn": "轮胎设备"
-        }
-      },
-      "pricing": {
-        "original": {
-          "cny": 10500
-        },
-        "computed": {
-          "eur": 1501.5,
-          "cny": 10500,
-          "xaf": 984919
-        }
-      },
-      "images": [
-        {
-          "url": "http://img.wykji.cn/78/2023-03/63fffaa18b7c7.JPG",
-          "alt": "Product image"
-        },
-        {
-          "url": "http://img.wykji.cn/78/2023-03/63fffaa1348f0.jpg",
-          "alt": "Product image"
-        }
-      ],
-      "stock": 999,
-      "sourceUrl": "https://m.wykji.cn/Item/detail/id/24111/page/1/sid/78/pid/0.html"
-    },
-    {
       "id": "79714",
       "slug": "u-639chai-tai-ji",
       "sku": "SAWEI-79714",
@@ -5594,47 +3173,6 @@
       "sourceUrl": "https://m.wykji.cn/Item/detail/id/79714/page/1/sid/78/pid/0.html"
     },
     {
-      "id": "79714",
-      "slug": "u-639chai-tai-ji-y-19500-00-yuan-jie-y-19500-00-ku",
-      "sku": "SAWEI-79714",
-      "title": {
-        "fr": "Matériel pneumatique - U-639拆胎机",
-        "en": "Tire Equipment - U-639拆胎机",
-        "cn": "U-639拆胎机"
-      },
-      "description": {
-        "fr": "Équipement automobile professionnel: Matériel pneumatique - U-639拆胎机",
-        "en": "Professional automotive equipment: Tire Equipment - U-639拆胎机",
-        "cn": "专业汽车设备: U-639拆胎机"
-      },
-      "category": {
-        "slug": "Materiel_de_pneu",
-        "name": {
-          "fr": "Matériel pneumatique",
-          "en": "Tire Equipment",
-          "cn": "轮胎设备"
-        }
-      },
-      "pricing": {
-        "original": {
-          "cny": 19500
-        },
-        "computed": {
-          "eur": 2788.5,
-          "cny": 19500,
-          "xaf": 1829136
-        }
-      },
-      "images": [
-        {
-          "url": "https://img.wykji.cn/78/2025-12/694c99b5bbc5f.jpg",
-          "alt": "Product image"
-        }
-      ],
-      "stock": 999,
-      "sourceUrl": "https://m.wykji.cn/Item/detail/id/79714/page/1/sid/78/pid/0.html"
-    },
-    {
       "id": "24488",
       "slug": "u-650chai-tai-ji",
       "sku": "SAWEI-24488",
@@ -5677,47 +3215,6 @@
         }
       ],
       "stock": 0,
-      "sourceUrl": "https://m.wykji.cn/Item/detail/id/24488/page/1/sid/78/pid/0.html"
-    },
-    {
-      "id": "24488",
-      "slug": "u-650chai-tai-ji-y-49800-00-yuan-jie-y-49800-00-ku",
-      "sku": "SAWEI-24488",
-      "title": {
-        "fr": "Matériel pneumatique - U-650拆胎机",
-        "en": "Tire Equipment - U-650拆胎机",
-        "cn": "U-650拆胎机"
-      },
-      "description": {
-        "fr": "Équipement automobile professionnel: Matériel pneumatique - U-650拆胎机",
-        "en": "Professional automotive equipment: Tire Equipment - U-650拆胎机",
-        "cn": "专业汽车设备: U-650拆胎机"
-      },
-      "category": {
-        "slug": "Materiel_de_pneu",
-        "name": {
-          "fr": "Matériel pneumatique",
-          "en": "Tire Equipment",
-          "cn": "轮胎设备"
-        }
-      },
-      "pricing": {
-        "original": {
-          "cny": 49800
-        },
-        "computed": {
-          "eur": 7121.4,
-          "cny": 49800,
-          "xaf": 4671332
-        }
-      },
-      "images": [
-        {
-          "url": "https://img.wykji.cn/78/2023-09/65011cd716b2e.jpg",
-          "alt": "Product image"
-        }
-      ],
-      "stock": 999,
       "sourceUrl": "https://m.wykji.cn/Item/detail/id/24488/page/1/sid/78/pid/0.html"
     },
     {
@@ -5767,51 +3264,6 @@
         }
       ],
       "stock": 0,
-      "sourceUrl": "https://m.wykji.cn/Item/detail/id/24113/page/1/sid/78/pid/0.html"
-    },
-    {
-      "id": "24113",
-      "slug": "u-650fchai-tai-ji-y-39800-00-yuan-jie-y-39800-00-k",
-      "sku": "SAWEI-24113",
-      "title": {
-        "fr": "Matériel pneumatique - U-650F拆胎机",
-        "en": "Tire Equipment - U-650F拆胎机",
-        "cn": "U-650F拆胎机"
-      },
-      "description": {
-        "fr": "Équipement automobile professionnel: Matériel pneumatique - U-650F拆胎机",
-        "en": "Professional automotive equipment: Tire Equipment - U-650F拆胎机",
-        "cn": "专业汽车设备: U-650F拆胎机"
-      },
-      "category": {
-        "slug": "Materiel_de_pneu",
-        "name": {
-          "fr": "Matériel pneumatique",
-          "en": "Tire Equipment",
-          "cn": "轮胎设备"
-        }
-      },
-      "pricing": {
-        "original": {
-          "cny": 39800
-        },
-        "computed": {
-          "eur": 5691.4,
-          "cny": 39800,
-          "xaf": 3733314
-        }
-      },
-      "images": [
-        {
-          "url": "http://img.wykji.cn/78/2023-03/63fffbfa910cf.jpg",
-          "alt": "Product image"
-        },
-        {
-          "url": "http://img.wykji.cn/78/2023-03/63fffbf9a1a10.jpg",
-          "alt": "Product image"
-        }
-      ],
-      "stock": 999,
       "sourceUrl": "https://m.wykji.cn/Item/detail/id/24113/page/1/sid/78/pid/0.html"
     },
     {
@@ -7618,7 +5070,8 @@
         "fr": "Équipement de détection",
         "en": "Detection Equipment",
         "cn": "检测设备"
-      }
+      },
+      "productCount": 10
     },
     {
       "slug": "Equipement_de_levage",
@@ -7626,7 +5079,8 @@
         "fr": "Équipement de levage",
         "en": "Lifting Equipment",
         "cn": "举升设备"
-      }
+      },
+      "productCount": 10
     },
     {
       "slug": "Equipement_pneumatique",
@@ -7634,7 +5088,8 @@
         "fr": "Équipement pneumatique",
         "en": "Pneumatic Equipment",
         "cn": "气动设备"
-      }
+      },
+      "productCount": 10
     },
     {
       "slug": "Equipement_pulverisateur",
@@ -7642,7 +5097,8 @@
         "fr": "Équipement pulvérisateur",
         "en": "Spray Equipment",
         "cn": "喷涂设备"
-      }
+      },
+      "productCount": 10
     },
     {
       "slug": "Materiel_changement_huile",
@@ -7650,7 +5106,8 @@
         "fr": "Matériel vidange",
         "en": "Oil Change Equipment",
         "cn": "换油设备"
-      }
+      },
+      "productCount": 10
     },
     {
       "slug": "Materiel_de_lavage",
@@ -7658,7 +5115,8 @@
         "fr": "Matériel de lavage",
         "en": "Washing Equipment",
         "cn": "清洗设备"
-      }
+      },
+      "productCount": 10
     },
     {
       "slug": "Materiel_de_pneu",
@@ -7666,7 +5124,8 @@
         "fr": "Matériel pneumatique",
         "en": "Tire Equipment",
         "cn": "轮胎设备"
-      }
+      },
+      "productCount": 10
     },
     {
       "slug": "Nouvelles_Energies",
@@ -7674,7 +5133,8 @@
         "fr": "Nouvelles Énergies",
         "en": "New Energy",
         "cn": "新能源设备"
-      }
+      },
+      "productCount": 10
     },
     {
       "slug": "Occasion_Promotions",
@@ -7682,7 +5142,8 @@
         "fr": "Occasions & Promotions",
         "en": "Used & Promotions",
         "cn": "二手与促销"
-      }
+      },
+      "productCount": 1
     },
     {
       "slug": "Outils_generaux",
@@ -7690,7 +5151,8 @@
         "fr": "Outils généraux",
         "en": "General Tools",
         "cn": "通用工具"
-      }
+      },
+      "productCount": 9
     },
     {
       "slug": "Outils_JTC",
@@ -7698,7 +5160,8 @@
         "fr": "Outils JTC",
         "en": "JTC Tools",
         "cn": "JTC工具"
-      }
+      },
+      "productCount": 10
     },
     {
       "slug": "Outils_SATA",
@@ -7706,13 +5169,14 @@
         "fr": "Outils SATA",
         "en": "SATA Tools",
         "cn": "世达工具"
-      }
+      },
+      "productCount": 10
     }
   ],
   "metadata": {
-    "totalProducts": 166,
+    "totalProducts": 110,
     "totalCategories": 12,
-    "generatedAt": "2026-01-14T12:41:32.053Z",
+    "generatedAt": "2026-01-14T14:01:16.275Z",
     "source": "Catalogue_Boutique78"
   }
 }
