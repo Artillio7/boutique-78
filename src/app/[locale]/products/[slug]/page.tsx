@@ -10,7 +10,8 @@ import { ProductGrid } from '@/components/catalogue/ProductGrid';
 import { ProductImageGallery } from '@/components/catalogue/ProductImageGallery';
 import { ProductPriceDisplay } from '@/components/catalogue/ProductPriceDisplay';
 import { AddToCartButton } from '@/components/catalogue/AddToCartButton';
-import { ArrowLeft, Share2, MessageCircle } from 'lucide-react';
+import { QuoteForm } from '@/components/catalogue/QuoteForm';
+import { ArrowLeft, Share2 } from 'lucide-react';
 import type { Locale } from '@/types';
 
 interface ProductPageProps {
@@ -107,10 +108,7 @@ export default async function ProductPage({ params }: ProductPageProps) {
               image={product.images[0]?.url}
               label={t('buyNow')}
             />
-            <Button variant="outline" size="lg" className="flex-1 gap-2">
-              <MessageCircle className="h-5 w-5" />
-              {t('addToQuote')}
-            </Button>
+            <QuoteForm productTitle={title} productSku={product.sku || product.id} />
           </div>
 
           {/* Share */}

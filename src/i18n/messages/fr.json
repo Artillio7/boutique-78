@@ -56,6 +56,24 @@
     "shareProduct": "Partager ce produit",
     "relatedProducts": "Produits similaires"
   },
+  "quote": {
+    "title": "Demande de devis",
+    "subtitle": "Remplissez ce formulaire pour recevoir un devis personnalisé",
+    "name": "Nom complet",
+    "namePlaceholder": "Votre nom",
+    "email": "Email",
+    "emailPlaceholder": "votre@email.com",
+    "phone": "Téléphone",
+    "phonePlaceholder": "+33 6 00 00 00 00",
+    "message": "Message",
+    "messagePlaceholder": "Décrivez vos besoins...",
+    "submit": "Envoyer la demande",
+    "success": {
+      "title": "Demande envoyée !",
+      "message": "Nous vous répondrons dans les 24h."
+    },
+    "required": "Ce champ est requis"
+  },
   "currency": {
     "label": "Devise",
     "EUR": "Euro (€)",

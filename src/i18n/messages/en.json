@@ -56,6 +56,24 @@
     "shareProduct": "Share this product",
     "relatedProducts": "Related products"
   },
+  "quote": {
+    "title": "Quote Request",
+    "subtitle": "Fill out this form to receive a personalized quote",
+    "name": "Full name",
+    "namePlaceholder": "Your name",
+    "email": "Email",
+    "emailPlaceholder": "your@email.com",
+    "phone": "Phone",
+    "phonePlaceholder": "+1 234 567 8900",
+    "message": "Message",
+    "messagePlaceholder": "Describe your needs...",
+    "submit": "Send request",
+    "success": {
+      "title": "Request sent!",
+      "message": "We will respond within 24 hours."
+    },
+    "required": "This field is required"
+  },
   "currency": {
     "label": "Currency",
     "EUR": "Euro (€)",
