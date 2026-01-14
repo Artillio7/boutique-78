@@ -32,7 +32,7 @@
         "npm run build passes"
       ],
       "priority": 2,
-      "passes": false,
+      "passes": true,
       "blockedBy": [],
       "plan": ".ralph/plans/F-008.plan.md"
     },

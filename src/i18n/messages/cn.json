@@ -111,6 +111,28 @@
     "contact": "通过WhatsApp联系我们",
     "message": "您好，我对产品感兴趣: {product}。请问您能提供更多信息吗？"
   },
+  "contact": {
+    "title": "联系我们",
+    "subtitle": "我们随时为您服务",
+    "info": {
+      "title": "联系信息",
+      "email": "邮箱",
+      "phone": "电话",
+      "address": "地址",
+      "hours": "营业时间",
+      "hoursValue": "周一至周五: 9:00 - 18:00"
+    },
+    "form": {
+      "title": "发送消息",
+      "name": "姓名",
+      "email": "邮箱",
+      "subject": "主题",
+      "message": "消息",
+      "submit": "发送",
+      "success": "消息发送成功！",
+      "successMessage": "我们会尽快回复您。"
+    }
+  },
   "notFound": {
     "title": "页面未找到",
     "message": "抱歉，您访问的页面不存在或已被移动。",

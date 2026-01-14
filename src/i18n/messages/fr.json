@@ -111,6 +111,28 @@
     "contact": "Nous contacter sur WhatsApp",
     "message": "Bonjour, je suis intéressé par le produit: {product}. Pouvez-vous me donner plus d'informations?"
   },
+  "contact": {
+    "title": "Contactez-nous",
+    "subtitle": "Nous sommes là pour vous aider",
+    "info": {
+      "title": "Informations de contact",
+      "email": "Email",
+      "phone": "Téléphone",
+      "address": "Adresse",
+      "hours": "Horaires",
+      "hoursValue": "Lun-Ven: 9h00 - 18h00"
+    },
+    "form": {
+      "title": "Envoyez-nous un message",
+      "name": "Nom",
+      "email": "Email",
+      "subject": "Sujet",
+      "message": "Message",
+      "submit": "Envoyer",
+      "success": "Message envoyé avec succès !",
+      "successMessage": "Nous vous répondrons dans les plus brefs délais."
+    }
+  },
   "notFound": {
     "title": "Page non trouvée",
     "message": "Désolé, la page que vous recherchez n'existe pas ou a été déplacée.",

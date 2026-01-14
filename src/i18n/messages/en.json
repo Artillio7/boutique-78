@@ -111,6 +111,28 @@
     "contact": "Contact us on WhatsApp",
     "message": "Hello, I am interested in the product: {product}. Can you give me more information?"
   },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We're here to help",
+    "info": {
+      "title": "Contact Information",
+      "email": "Email",
+      "phone": "Phone",
+      "address": "Address",
+      "hours": "Business Hours",
+      "hoursValue": "Mon-Fri: 9:00 AM - 6:00 PM"
+    },
+    "form": {
+      "title": "Send us a message",
+      "name": "Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "submit": "Send",
+      "success": "Message sent successfully!",
+      "successMessage": "We will respond as soon as possible."
+    }
+  },
   "notFound": {
     "title": "Page not found",
     "message": "Sorry, the page you're looking for doesn't exist or has been moved.",
