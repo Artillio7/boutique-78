@@ -16,7 +16,7 @@
         "npm run build passes"
       ],
       "priority": 1,
-      "passes": false,
+      "passes": true,
       "blockedBy": [],
       "plan": ".ralph/plans/F-001.plan.md"
     },
@@ -103,8 +103,8 @@
 
   "metadata": {
     "totalFeatures": 6,
-    "completed": 0,
-    "remaining": 6,
+    "completed": 1,
+    "remaining": 5,
     "lastUpdated": "2026-01-14T12:00:00Z",
     "qualityChecks": [
       "npm run build"
