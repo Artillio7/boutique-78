@@ -169,11 +169,11 @@ categoryFolders.forEach(categorySlug => {
           name: categoryTrans
         },
         pricing: {
-          original: { cny: info.pricing?.price_cny_raw || 0 },
+          original: { cny: info.pricing?.price_cny_raw || info.price_cny_raw || 0 },
           computed: {
-            eur: info.pricing?.price_eur || 0,
-            cny: info.pricing?.price_cny_raw || 0,
-            xaf: Math.round((info.pricing?.price_eur || 0) * 655.957)
+            eur: info.pricing?.price_eur || info.price_eur || 0,
+            cny: info.pricing?.price_cny_raw || info.price_cny_raw || 0,
+            xaf: Math.round((info.pricing?.price_eur || info.price_eur || 0) * 655.957)
           }
         },
         images: sortedImages,
