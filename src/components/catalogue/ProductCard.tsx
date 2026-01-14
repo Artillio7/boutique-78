@@ -1,6 +1,6 @@
 'use client';
 
-import Image from 'next/image';
+import { ImageWithFallback } from '@/components/ui/image-with-fallback';
 import Link from 'next/link';
 import { useLocale } from 'next-intl';
 import { motion } from 'framer-motion';
@@ -48,11 +48,12 @@ export function ProductCard({ product, index = 0 }: ProductCardProps) {
         <Card className="group overflow-hidden hover:shadow-lg transition-all duration-300 h-full">
           {/* Image Container */}
           <div className="relative aspect-square overflow-hidden bg-muted">
-            <Image
+            <ImageWithFallback
               src={imageUrl}
               alt={title}
               fill
               className="object-cover group-hover:scale-105 transition-transform duration-500"
+              fallbackClassName="absolute inset-0"
               sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
             />
             {/* Category Badge */}

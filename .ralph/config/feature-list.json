@@ -1,115 +1,112 @@
 {
   "project": "sawei-store",
   "branchName": "ralph/sawei-enhancements",
-  "description": "Checkout & Contact System for SAWEI E-commerce",
-  "createdAt": "2026-01-14T12:00:00Z",
+  "description": "Phase 2 - Quality & UX Improvements for SAWEI E-commerce",
+  "createdAt": "2026-01-14T14:00:00Z",
 
   "features": [
     {
-      "id": "F-001",
-      "title": "Create Cart Context with localStorage",
-      "description": "Implement cart state management using React Context with localStorage persistence. Store cart items with product ID, quantity, and price.",
+      "id": "F-007",
+      "title": "Image Fallback Handler",
+      "description": "Add fallback handling for broken external images. Show placeholder when image fails to load.",
       "acceptanceCriteria": [
-        "CartContext created in src/lib/cart.tsx",
-        "addToCart, removeFromCart, clearCart functions",
-        "Cart persists across page refreshes",
+        "ImageWithFallback component created",
+        "Shows placeholder on error",
+        "Used in ProductCard and ProductImageGallery",
         "npm run build passes"
       ],
       "priority": 1,
-      "passes": true,
+      "passes": false,
       "blockedBy": [],
-      "plan": ".ralph/plans/F-001.plan.md"
+      "plan": ".ralph/plans/F-007.plan.md"
     },
     {
-      "id": "F-002",
-      "title": "Add Cart Button to Product Cards",
-      "description": "Add 'Add to Cart' button on ProductCard and product detail page. Show cart item count in header.",
+      "id": "F-008",
+      "title": "Custom 404 Page",
+      "description": "Create styled 404 error page with helpful navigation.",
       "acceptanceCriteria": [
-        "Add to Cart button on ProductCard",
-        "Add to Cart button on product detail page",
-        "Cart count badge in Header",
+        "Custom not-found.tsx page",
+        "Shows search suggestion",
+        "Link back to catalogue",
+        "Translated content (FR/EN/CN)",
         "npm run build passes"
       ],
       "priority": 2,
-      "passes": true,
-      "blockedBy": ["F-001"],
-      "plan": ".ralph/plans/F-002.plan.md"
+      "passes": false,
+      "blockedBy": [],
+      "plan": ".ralph/plans/F-008.plan.md"
     },
     {
-      "id": "F-003",
-      "title": "Create Checkout Page",
-      "description": "Create checkout page showing cart items, totals, and Stripe checkout button. Connect to existing Stripe API route.",
+      "id": "F-009",
+      "title": "Contact Page",
+      "description": "Create dedicated contact page with company info and contact form.",
       "acceptanceCriteria": [
-        "Checkout page at /[locale]/checkout",
-        "Shows cart items with quantities and prices",
-        "Shows total in selected currency",
-        "Checkout button triggers Stripe API",
+        "Contact page at /[locale]/contact",
+        "Display company info",
+        "Contact form with validation",
         "npm run build passes"
       ],
       "priority": 3,
-      "passes": true,
-      "blockedBy": ["F-002"],
-      "plan": ".ralph/plans/F-003.plan.md"
+      "passes": false,
+      "blockedBy": [],
+      "plan": ".ralph/plans/F-009.plan.md"
     },
     {
-      "id": "F-004",
-      "title": "Create Success Page",
-      "description": "Create checkout success page that clears cart and shows confirmation message.",
+      "id": "F-010",
+      "title": "About Page",
+      "description": "Create about page with company presentation.",
       "acceptanceCriteria": [
-        "Success page at /[locale]/checkout/success",
-        "Clears cart on load",
-        "Shows order confirmation",
-        "Link back to catalogue",
+        "About page at /[locale]/about",
+        "Company presentation",
+        "Services section",
         "npm run build passes"
       ],
       "priority": 4,
-      "passes": true,
-      "blockedBy": ["F-003"],
-      "plan": ".ralph/plans/F-004.plan.md"
+      "passes": false,
+      "blockedBy": [],
+      "plan": ".ralph/plans/F-010.plan.md"
     },
     {
-      "id": "F-005",
-      "title": "Create Quote Request Form",
-      "description": "Create quote request form with name, email, phone, message fields. Show confirmation on submit.",
+      "id": "F-011",
+      "title": "Footer Improvements",
+      "description": "Enhance footer with contact info, links, and newsletter placeholder.",
       "acceptanceCriteria": [
-        "QuoteForm component created",
-        "Form validation (required fields)",
-        "Shows confirmation on submit",
-        "Accessible from product pages",
+        "Contact information in footer",
+        "Quick navigation links",
+        "Social media placeholders",
         "npm run build passes"
       ],
       "priority": 5,
-      "passes": true,
-      "blockedBy": [],
-      "plan": ".ralph/plans/F-005.plan.md"
+      "passes": false,
+      "blockedBy": ["F-009", "F-010"],
+      "plan": ".ralph/plans/F-011.plan.md"
     },
     {
-      "id": "F-006",
-      "title": "Add WhatsApp Contact Button",
-      "description": "Add WhatsApp floating button and contact links that open WhatsApp with pre-filled message including product info.",
+      "id": "F-012",
+      "title": "SEO Meta Tags",
+      "description": "Add meta descriptions, Open Graph tags, and JSON-LD structured data.",
       "acceptanceCriteria": [
-        "WhatsApp button component",
-        "Pre-fills message with product name and URL",
-        "Floating button on product pages",
-        "Uses correct WhatsApp link format",
+        "Meta descriptions on all pages",
+        "Open Graph tags for products",
+        "JSON-LD product structured data",
         "npm run build passes"
       ],
       "priority": 6,
-      "passes": true,
+      "passes": false,
       "blockedBy": [],
-      "plan": ".ralph/plans/F-006.plan.md"
+      "plan": ".ralph/plans/F-012.plan.md"
     }
   ],
 
   "metadata": {
     "totalFeatures": 6,
-    "completed": 6,
-    "remaining": 0,
-    "lastUpdated": "2026-01-14T12:00:00Z",
+    "completed": 0,
+    "remaining": 6,
+    "lastUpdated": "2026-01-14T14:00:00Z",
     "qualityChecks": [
       "npm run build"
     ],
-    "sourcePRD": ".ralph/prd/checkout-and-contact.md",
+    "sourcePRD": ".ralph/prd/phase2-quality-improvements.md",
     "codeConstraints": {
       "maxFileLines": 500,
       "maxFunctionLines": 50,

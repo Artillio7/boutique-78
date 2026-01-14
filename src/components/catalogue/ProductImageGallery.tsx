@@ -1,7 +1,7 @@
 'use client';
 
 import { useState } from 'react';
-import Image from 'next/image';
+import { ImageWithFallback } from '@/components/ui/image-with-fallback';
 import { motion, AnimatePresence } from 'framer-motion';
 import { cn } from '@/lib/utils';
 import type { ProductImage } from '@/types';
@@ -37,11 +37,12 @@ export function ProductImageGallery({ images, title }: ProductImageGalleryProps)
             transition={{ duration: 0.2 }}
             className="absolute inset-0"
           >
-            <Image
+            <ImageWithFallback
               src={selectedImage.url}
               alt={`${title} - Image ${selectedIndex + 1}`}
               fill
               className="object-contain"
+              fallbackClassName="absolute inset-0"
               sizes="(max-width: 768px) 100vw, 50vw"
               priority
             />
@@ -63,11 +64,12 @@ export function ProductImageGallery({ images, title }: ProductImageGalleryProps)
                   : 'border-transparent hover:border-muted-foreground/30'
               )}
             >
-              <Image
+              <ImageWithFallback
                 src={image.url}
                 alt={`${title} - Thumbnail ${index + 1}`}
                 fill
                 className="object-cover"
+                fallbackClassName="absolute inset-0"
                 sizes="80px"
               />
             </button>
