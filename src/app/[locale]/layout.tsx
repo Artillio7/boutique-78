@@ -1,7 +1,8 @@
 import { NextIntlClientProvider } from 'next-intl';
-import { getMessages, setRequestLocale } from 'next-intl/server';
+import { getMessages, setRequestLocale, getTranslations } from 'next-intl/server';
 import { notFound } from 'next/navigation';
 import { Inter } from 'next/font/google';
+import type { Metadata } from 'next';
 import { locales, type Locale } from '@/i18n/config';
 import { CurrencyProvider } from '@/lib/currency';
 import { CartProvider } from '@/lib/cart';
@@ -15,6 +16,41 @@ const inter = Inter({
 
 export function generateStaticParams() {
   return locales.map((locale) => ({ locale }));
+}
+
+interface MetadataProps {
+  params: Promise<{ locale: string }>;
+}
+
+export async function generateMetadata({ params }: MetadataProps): Promise<Metadata> {
+  const { locale } = await params;
+  const t = await getTranslations({ locale, namespace: 'meta' });
+
+  return {
+    title: {
+      default: t('title'),
+      template: '%s | SAWEI',
+    },
+    description: t('description'),
+    keywords: ['automotive equipment', 'car lift', 'tire changer', 'spray booth', 'garage equipment'],
+    authors: [{ name: 'SAWEI' }],
+    openGraph: {
+      type: 'website',
+      locale: locale === 'cn' ? 'zh_CN' : locale === 'fr' ? 'fr_FR' : 'en_US',
+      siteName: 'SAWEI',
+      title: t('title'),
+      description: t('description'),
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: t('title'),
+      description: t('description'),
+    },
+    robots: {
+      index: true,
+      follow: true,
+    },
+  };
 }
 
 interface LocaleLayoutProps {

@@ -1,10 +1,21 @@
 import { getTranslations, setRequestLocale } from 'next-intl/server';
+import type { Metadata } from 'next';
 import { Award, DollarSign, Headphones, Wrench, Paintbrush, Car, Gauge, Droplets, Settings } from 'lucide-react';
 import { Card, CardContent } from '@/components/ui/card';
 import { Separator } from '@/components/ui/separator';
 
 interface AboutPageProps {
   params: Promise<{ locale: string }>;
+}
+
+export async function generateMetadata({ params }: AboutPageProps): Promise<Metadata> {
+  const { locale } = await params;
+  const t = await getTranslations({ locale, namespace: 'about' });
+
+  return {
+    title: t('title'),
+    description: t('intro'),
+  };
 }
 
 export default async function AboutPage({ params }: AboutPageProps) {
