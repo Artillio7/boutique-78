@@ -4,9 +4,9 @@ import { locales, defaultLocale } from './i18n/config';
 export default createMiddleware({
   locales,
   defaultLocale,
-  localePrefix: 'as-needed'
+  localePrefix: 'always'
 });
 
 export const config = {
-  matcher: ['/', '/(fr|en|cn)/:path*']
+  matcher: ['/((?!api|_next|_vercel|.*\\..*).*)']
 };
