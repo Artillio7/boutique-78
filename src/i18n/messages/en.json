@@ -81,7 +81,13 @@
     "subtotal": "Subtotal",
     "total": "Total",
     "checkout": "Checkout",
-    "processing": "Processing..."
+    "processing": "Processing...",
+    "success": {
+      "title": "Thank you for your order!",
+      "message": "Your order has been confirmed. You will receive a confirmation email shortly.",
+      "orderNumber": "Order number",
+      "backToCatalogue": "Back to catalogue"
+    }
   },
   "common": {
     "loading": "Loading...",

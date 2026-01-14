@@ -81,7 +81,13 @@
     "subtotal": "Sous-total",
     "total": "Total",
     "checkout": "Passer commande",
-    "processing": "Traitement en cours..."
+    "processing": "Traitement en cours...",
+    "success": {
+      "title": "Merci pour votre commande !",
+      "message": "Votre commande a été confirmée. Vous recevrez un email de confirmation sous peu.",
+      "orderNumber": "Numéro de commande",
+      "backToCatalogue": "Retour au catalogue"
+    }
   },
   "common": {
     "loading": "Chargement...",
