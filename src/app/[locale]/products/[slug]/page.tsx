@@ -9,7 +9,8 @@ import { Separator } from '@/components/ui/separator';
 import { ProductGrid } from '@/components/catalogue/ProductGrid';
 import { ProductImageGallery } from '@/components/catalogue/ProductImageGallery';
 import { ProductPriceDisplay } from '@/components/catalogue/ProductPriceDisplay';
-import { ArrowLeft, Share2, ShoppingCart, MessageCircle } from 'lucide-react';
+import { AddToCartButton } from '@/components/catalogue/AddToCartButton';
+import { ArrowLeft, Share2, MessageCircle } from 'lucide-react';
 import type { Locale } from '@/types';
 
 interface ProductPageProps {
@@ -98,10 +99,14 @@ export default async function ProductPage({ params }: ProductPageProps) {
 
           {/* Actions */}
           <div className="flex flex-wrap gap-4">
-            <Button size="lg" className="flex-1 gap-2">
-              <ShoppingCart className="h-5 w-5" />
-              {t('buyNow')}
-            </Button>
+            <AddToCartButton
+              productId={product.id}
+              slug={product.slug}
+              title={title}
+              priceEur={product.pricing.computed.eur}
+              image={product.images[0]?.url}
+              label={t('buyNow')}
+            />
             <Button variant="outline" size="lg" className="flex-1 gap-2">
               <MessageCircle className="h-5 w-5" />
               {t('addToQuote')}
