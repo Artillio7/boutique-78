@@ -11,6 +11,7 @@ import { ProductImageGallery } from '@/components/catalogue/ProductImageGallery'
 import { ProductPriceDisplay } from '@/components/catalogue/ProductPriceDisplay';
 import { AddToCartButton } from '@/components/catalogue/AddToCartButton';
 import { QuoteForm } from '@/components/catalogue/QuoteForm';
+import { WhatsAppButton } from '@/components/catalogue/WhatsAppButton';
 import { ArrowLeft, Share2 } from 'lucide-react';
 import type { Locale } from '@/types';
 
@@ -111,6 +112,11 @@ export default async function ProductPage({ params }: ProductPageProps) {
             <QuoteForm productTitle={title} productSku={product.sku || product.id} />
           </div>
 
+          {/* Contact Options */}
+          <div className="flex gap-4">
+            <WhatsAppButton productTitle={title} />
+          </div>
+
           {/* Share */}
           <Button variant="ghost" size="sm" className="gap-2">
             <Share2 className="h-4 w-4" />
@@ -134,6 +140,9 @@ export default async function ProductPage({ params }: ProductPageProps) {
           <ProductGrid products={relatedProducts} />
         </section>
       )}
+
+      {/* Floating WhatsApp Button */}
+      <WhatsAppButton productTitle={title} floating />
     </div>
   );
 }

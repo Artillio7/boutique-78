@@ -107,6 +107,10 @@
       "backToCatalogue": "返回目录"
     }
   },
+  "whatsapp": {
+    "contact": "通过WhatsApp联系我们",
+    "message": "您好，我对产品感兴趣: {product}。请问您能提供更多信息吗？"
+  },
   "common": {
     "loading": "加载中...",
     "error": "发生错误",

@@ -107,6 +107,10 @@
       "backToCatalogue": "Back to catalogue"
     }
   },
+  "whatsapp": {
+    "contact": "Contact us on WhatsApp",
+    "message": "Hello, I am interested in the product: {product}. Can you give me more information?"
+  },
   "common": {
     "loading": "Loading...",
     "error": "An error occurred",
