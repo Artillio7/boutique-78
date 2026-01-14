@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "title": "萨威 - 专业汽车保养设备",
+    "description": "专业汽车保养设备目录。举升机、拆胎机、诊断设备、喷漆房。"
+  },
+  "nav": {
+    "home": "首页",
+    "catalogue": "产品目录",
+    "categories": "分类",
+    "contact": "联系我们",
+    "search": "搜索..."
+  },
+  "home": {
+    "hero": {
+      "title": "专业汽车保养设备",
+      "subtitle": "工业品质，最优价格",
+      "cta": "查看目录"
+    },
+    "features": {
+      "quality": "专业品质",
+      "qualityDesc": "经认证的高强度使用设备",
+      "shipping": "全球配送",
+      "shippingDesc": "法国、非洲、亚洲",
+      "support": "专家支持",
+      "supportDesc": "专业技术支持"
+    }
+  },
+  "catalogue": {
+    "title": "产品目录",
+    "products": "产品",
+    "filters": "筛选",
+    "categories": "分类",
+    "allCategories": "所有分类",
+    "priceRange": "价格范围",
+    "sortBy": "排序",
+    "sortOptions": {
+      "priceDesc": "价格从高到低",
+      "priceAsc": "价格从低到高",
+      "nameAsc": "名称 A-Z",
+      "newest": "最新"
+    },
+    "noResults": "未找到产品",
+    "clearFilters": "清除筛选"
+  },
+  "product": {
+    "price": "价格",
+    "sku": "货号",
+    "category": "分类",
+    "description": "描述",
+    "specifications": "规格",
+    "images": "图片",
+    "addToQuote": "询价",
+    "buyNow": "立即购买",
+    "contact": "联系我们",
+    "shareProduct": "分享产品",
+    "relatedProducts": "相关产品"
+  },
+  "currency": {
+    "label": "货币",
+    "EUR": "欧元 (€)",
+    "CNY": "人民币 (¥)",
+    "XAF": "中非法郎"
+  },
+  "footer": {
+    "company": "萨威",
+    "tagline": "来自中国的专业汽车保养设备",
+    "links": "链接",
+    "contact": "联系方式",
+    "legal": "法律声明",
+    "privacy": "隐私政策",
+    "terms": "条款",
+    "copyright": "© 2024 萨威。保留所有权利。"
+  },
+  "common": {
+    "loading": "加载中...",
+    "error": "发生错误",
+    "retry": "重试",
+    "back": "返回",
+    "viewAll": "查看全部",
+    "close": "关闭"
+  }
+}

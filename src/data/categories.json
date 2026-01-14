@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1151",
+    "slug": "Equipement_de_levage",
+    "name": {
+      "fr": "Equipement de levage",
+      "en": "Lifting Equipment",
+      "cn": "举升设备"
+    },
+    "productCount": 10
+  },
+  {
+    "id": "1155",
+    "slug": "Materiel_changement_huile",
+    "name": {
+      "fr": "Materiel changement huile",
+      "en": "Oil Change Equipment",
+      "cn": "换油设备"
+    },
+    "productCount": 10
+  },
+  {
+    "id": "1156",
+    "slug": "Materiel_de_lavage",
+    "name": {
+      "fr": "Materiel de lavage",
+      "en": "Washing Equipment",
+      "cn": "洗美设备"
+    },
+    "productCount": 10
+  },
+  {
+    "id": "1153",
+    "slug": "Materiel_de_pneu",
+    "name": {
+      "fr": "Materiel de pneu",
+      "en": "Tire Equipment",
+      "cn": "轮胎设备"
+    },
+    "productCount": 10
+  },
+  {
+    "id": "1152",
+    "slug": "Equipement_pulverisateur",
+    "name": {
+      "fr": "Equipement pulverisateur",
+      "en": "Spray Booth Equipment",
+      "cn": "钣喷设备"
+    },
+    "productCount": 9
+  },
+  {
+    "id": "1154",
+    "slug": "Equipement_de_detection",
+    "name": {
+      "fr": "Equipement de detection",
+      "en": "Detection Equipment",
+      "cn": "检测设备"
+    },
+    "productCount": 7
+  }
+]

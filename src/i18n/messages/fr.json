@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "title": "SAWEI - Équipements Automobiles Professionnels",
+    "description": "Catalogue d'équipements automobiles professionnels. Ponts élévateurs, démonte-pneus, diagnostics, cabines de peinture."
+  },
+  "nav": {
+    "home": "Accueil",
+    "catalogue": "Catalogue",
+    "categories": "Catégories",
+    "contact": "Contact",
+    "search": "Rechercher..."
+  },
+  "home": {
+    "hero": {
+      "title": "Équipements Automobiles Professionnels",
+      "subtitle": "Qualité industrielle aux meilleurs prix",
+      "cta": "Voir le catalogue"
+    },
+    "features": {
+      "quality": "Qualité Pro",
+      "qualityDesc": "Équipements certifiés pour usage intensif",
+      "shipping": "Livraison Mondiale",
+      "shippingDesc": "France, Afrique, Asie",
+      "support": "Support Expert",
+      "supportDesc": "Assistance technique dédiée"
+    }
+  },
+  "catalogue": {
+    "title": "Catalogue",
+    "products": "produits",
+    "filters": "Filtres",
+    "categories": "Catégories",
+    "allCategories": "Toutes les catégories",
+    "priceRange": "Fourchette de prix",
+    "sortBy": "Trier par",
+    "sortOptions": {
+      "priceDesc": "Prix décroissant",
+      "priceAsc": "Prix croissant",
+      "nameAsc": "Nom A-Z",
+      "newest": "Plus récent"
+    },
+    "noResults": "Aucun produit trouvé",
+    "clearFilters": "Effacer les filtres"
+  },
+  "product": {
+    "price": "Prix",
+    "sku": "Référence",
+    "category": "Catégorie",
+    "description": "Description",
+    "specifications": "Caractéristiques",
+    "images": "Images",
+    "addToQuote": "Demander un devis",
+    "buyNow": "Acheter maintenant",
+    "contact": "Nous contacter",
+    "shareProduct": "Partager ce produit",
+    "relatedProducts": "Produits similaires"
+  },
+  "currency": {
+    "label": "Devise",
+    "EUR": "Euro (€)",
+    "CNY": "Yuan (¥)",
+    "XAF": "Franc CFA"
+  },
+  "footer": {
+    "company": "SAWEI",
+    "tagline": "Équipements automobiles professionnels depuis la Chine",
+    "links": "Liens utiles",
+    "contact": "Contact",
+    "legal": "Mentions légales",
+    "privacy": "Confidentialité",
+    "terms": "CGV",
+    "copyright": "© 2024 SAWEI. Tous droits réservés."
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Une erreur est survenue",
+    "retry": "Réessayer",
+    "back": "Retour",
+    "viewAll": "Voir tout",
+    "close": "Fermer"
+  }
+}

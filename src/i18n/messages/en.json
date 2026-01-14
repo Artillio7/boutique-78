@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "title": "SAWEI - Professional Automotive Equipment",
+    "description": "Professional automotive equipment catalogue. Car lifts, tire changers, diagnostics, spray booths."
+  },
+  "nav": {
+    "home": "Home",
+    "catalogue": "Catalogue",
+    "categories": "Categories",
+    "contact": "Contact",
+    "search": "Search..."
+  },
+  "home": {
+    "hero": {
+      "title": "Professional Automotive Equipment",
+      "subtitle": "Industrial quality at the best prices",
+      "cta": "View Catalogue"
+    },
+    "features": {
+      "quality": "Pro Quality",
+      "qualityDesc": "Certified equipment for intensive use",
+      "shipping": "Worldwide Shipping",
+      "shippingDesc": "France, Africa, Asia",
+      "support": "Expert Support",
+      "supportDesc": "Dedicated technical assistance"
+    }
+  },
+  "catalogue": {
+    "title": "Catalogue",
+    "products": "products",
+    "filters": "Filters",
+    "categories": "Categories",
+    "allCategories": "All categories",
+    "priceRange": "Price range",
+    "sortBy": "Sort by",
+    "sortOptions": {
+      "priceDesc": "Price high to low",
+      "priceAsc": "Price low to high",
+      "nameAsc": "Name A-Z",
+      "newest": "Newest"
+    },
+    "noResults": "No products found",
+    "clearFilters": "Clear filters"
+  },
+  "product": {
+    "price": "Price",
+    "sku": "SKU",
+    "category": "Category",
+    "description": "Description",
+    "specifications": "Specifications",
+    "images": "Images",
+    "addToQuote": "Request a quote",
+    "buyNow": "Buy now",
+    "contact": "Contact us",
+    "shareProduct": "Share this product",
+    "relatedProducts": "Related products"
+  },
+  "currency": {
+    "label": "Currency",
+    "EUR": "Euro (€)",
+    "CNY": "Yuan (¥)",
+    "XAF": "CFA Franc"
+  },
+  "footer": {
+    "company": "SAWEI",
+    "tagline": "Professional automotive equipment from China",
+    "links": "Useful links",
+    "contact": "Contact",
+    "legal": "Legal notice",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "copyright": "© 2024 SAWEI. All rights reserved."
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Retry",
+    "back": "Back",
+    "viewAll": "View all",
+    "close": "Close"
+  }
+}
