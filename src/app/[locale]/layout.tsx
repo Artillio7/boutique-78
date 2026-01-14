@@ -4,6 +4,7 @@ import { notFound } from 'next/navigation';
 import { Inter } from 'next/font/google';
 import { locales, type Locale } from '@/i18n/config';
 import { CurrencyProvider } from '@/lib/currency';
+import { CartProvider } from '@/lib/cart';
 import { Header } from '@/components/layout/Header';
 import { Footer } from '@/components/layout/Footer';
 
@@ -41,11 +42,13 @@ export default async function LocaleLayout({
       <body className={`${inter.variable} font-sans antialiased min-h-screen flex flex-col`}>
         <NextIntlClientProvider messages={messages}>
           <CurrencyProvider>
-            <Header />
-            <main className="flex-1">
-              {children}
-            </main>
-            <Footer />
+            <CartProvider>
+              <Header />
+              <main className="flex-1">
+                {children}
+              </main>
+              <Footer />
+            </CartProvider>
           </CurrencyProvider>
         </NextIntlClientProvider>
       </body>

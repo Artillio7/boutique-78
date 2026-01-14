@@ -1,0 +1,120 @@
+{
+  "project": "sawei-store",
+  "branchName": "ralph/sawei-enhancements",
+  "description": "Checkout & Contact System for SAWEI E-commerce",
+  "createdAt": "2026-01-14T12:00:00Z",
+
+  "features": [
+    {
+      "id": "F-001",
+      "title": "Create Cart Context with localStorage",
+      "description": "Implement cart state management using React Context with localStorage persistence. Store cart items with product ID, quantity, and price.",
+      "acceptanceCriteria": [
+        "CartContext created in src/lib/cart.tsx",
+        "addToCart, removeFromCart, clearCart functions",
+        "Cart persists across page refreshes",
+        "npm run build passes"
+      ],
+      "priority": 1,
+      "passes": false,
+      "blockedBy": [],
+      "plan": ".ralph/plans/F-001.plan.md"
+    },
+    {
+      "id": "F-002",
+      "title": "Add Cart Button to Product Cards",
+      "description": "Add 'Add to Cart' button on ProductCard and product detail page. Show cart item count in header.",
+      "acceptanceCriteria": [
+        "Add to Cart button on ProductCard",
+        "Add to Cart button on product detail page",
+        "Cart count badge in Header",
+        "npm run build passes"
+      ],
+      "priority": 2,
+      "passes": false,
+      "blockedBy": ["F-001"],
+      "plan": ".ralph/plans/F-002.plan.md"
+    },
+    {
+      "id": "F-003",
+      "title": "Create Checkout Page",
+      "description": "Create checkout page showing cart items, totals, and Stripe checkout button. Connect to existing Stripe API route.",
+      "acceptanceCriteria": [
+        "Checkout page at /[locale]/checkout",
+        "Shows cart items with quantities and prices",
+        "Shows total in selected currency",
+        "Checkout button triggers Stripe API",
+        "npm run build passes"
+      ],
+      "priority": 3,
+      "passes": false,
+      "blockedBy": ["F-002"],
+      "plan": ".ralph/plans/F-003.plan.md"
+    },
+    {
+      "id": "F-004",
+      "title": "Create Success Page",
+      "description": "Create checkout success page that clears cart and shows confirmation message.",
+      "acceptanceCriteria": [
+        "Success page at /[locale]/checkout/success",
+        "Clears cart on load",
+        "Shows order confirmation",
+        "Link back to catalogue",
+        "npm run build passes"
+      ],
+      "priority": 4,
+      "passes": false,
+      "blockedBy": ["F-003"],
+      "plan": ".ralph/plans/F-004.plan.md"
+    },
+    {
+      "id": "F-005",
+      "title": "Create Quote Request Form",
+      "description": "Create quote request form with name, email, phone, message fields. Show confirmation on submit.",
+      "acceptanceCriteria": [
+        "QuoteForm component created",
+        "Form validation (required fields)",
+        "Shows confirmation on submit",
+        "Accessible from product pages",
+        "npm run build passes"
+      ],
+      "priority": 5,
+      "passes": false,
+      "blockedBy": [],
+      "plan": ".ralph/plans/F-005.plan.md"
+    },
+    {
+      "id": "F-006",
+      "title": "Add WhatsApp Contact Button",
+      "description": "Add WhatsApp floating button and contact links that open WhatsApp with pre-filled message including product info.",
+      "acceptanceCriteria": [
+        "WhatsApp button component",
+        "Pre-fills message with product name and URL",
+        "Floating button on product pages",
+        "Uses correct WhatsApp link format",
+        "npm run build passes"
+      ],
+      "priority": 6,
+      "passes": false,
+      "blockedBy": [],
+      "plan": ".ralph/plans/F-006.plan.md"
+    }
+  ],
+
+  "metadata": {
+    "totalFeatures": 6,
+    "completed": 0,
+    "remaining": 6,
+    "lastUpdated": "2026-01-14T12:00:00Z",
+    "qualityChecks": [
+      "npm run build"
+    ],
+    "sourcePRD": ".ralph/prd/checkout-and-contact.md",
+    "codeConstraints": {
+      "maxFileLines": 500,
+      "maxFunctionLines": 50,
+      "maxFilesPerFeature": 3,
+      "maxLinesPerFeature": 200
+    }
+  }
+}
