@@ -97,7 +97,7 @@ export function filterProducts(options: {
       filtered.sort((a, b) => (a.title[locale] || '').localeCompare(b.title[locale] || ''));
       break;
     case 'newest':
-      filtered.sort((a, b) => new Date(b.createdAt).getTime() - new Date(a.createdAt).getTime());
+      filtered.sort((a, b) => new Date(b.createdAt || 0).getTime() - new Date(a.createdAt || 0).getTime());
       break;
   }
 

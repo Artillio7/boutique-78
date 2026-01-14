@@ -10,31 +10,35 @@ export interface LocalizedString {
 }
 
 export interface Category {
-  id: string;
+  id?: string;
   slug: string;
   name: LocalizedString;
-  productCount: number;
+  productCount?: number;
 }
 
 export interface ProductImage {
   url: string;
-  localPath: string;
+  localPath?: string;
   alt?: string;
 }
 
 export interface ProductPricing {
-  baseCny: number;
-  margin: number;
-  fxRates: {
-    eur: number;
-    xaf: number;
+  original: {
+    cny: number;
   };
   computed: {
     eur: number;
     cny: number;
     xaf: number;
   };
-  display: {
+  // Legacy fields (optional for backwards compatibility)
+  baseCny?: number;
+  margin?: number;
+  fxRates?: {
+    eur: number;
+    xaf: number;
+  };
+  display?: {
     eur: string;
     cny: string;
     xaf: string;
@@ -47,20 +51,21 @@ export interface Product {
   sku?: string;
   title: LocalizedString;
   description: LocalizedString;
-  shortDescription: {
-    fr: string;
-    en: string;
+  shortDescription?: {
+    fr?: string;
+    en?: string;
   };
   category: {
-    id: string;
+    id?: string;
     slug: string;
     name: LocalizedString;
   };
   pricing: ProductPricing;
   images: ProductImage[];
-  sourceUrl: string;
-  createdAt: string;
-  updatedAt: string;
+  stock?: number;
+  sourceUrl?: string;
+  createdAt?: string;
+  updatedAt?: string;
 }
 
 export interface CatalogueData {
@@ -68,9 +73,13 @@ export interface CatalogueData {
   categories: Category[];
   metadata: {
     totalProducts: number;
-    totalImages: number;
-    lastUpdated: string;
-    fxRates: {
+    totalCategories: number;
+    generatedAt: string;
+    source: string;
+    // Legacy fields (optional)
+    totalImages?: number;
+    lastUpdated?: string;
+    fxRates?: {
       eurCny: number;
       eurXaf: number;
     };

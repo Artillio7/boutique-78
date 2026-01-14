@@ -43,8 +43,8 @@ export async function POST(request: NextRequest) {
             currency: stripeCurrency,
             product_data: {
               name: product.title.fr,
-              description: product.shortDescription?.fr || '',
-              images: product.images.slice(0, 1).map(img => img.url),
+              description: product.description?.fr?.substring(0, 100) || '',
+              images: product.images.slice(0, 1).map(img => img.url).filter(url => url.startsWith('http')),
             },
             unit_amount: amount,
           },
@@ -86,8 +86,8 @@ export async function POST(request: NextRequest) {
             currency: stripeCurrency,
             product_data: {
               name: product.title.fr,
-              description: product.shortDescription?.fr || '',
-              images: product.images.slice(0, 1).map(img => img.url),
+              description: product.description?.fr?.substring(0, 100) || '',
+              images: product.images.slice(0, 1).map(img => img.url).filter(url => url.startsWith('http')),
             },
             unit_amount: amount,
           },
